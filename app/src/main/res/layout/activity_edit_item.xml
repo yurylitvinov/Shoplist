@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="2"
+        tools:context=".EditItemActivity">
+    <TextView
+            android:id="@+id/label_display_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Название в списке"
+    />
+    <EditText
+            android:id="@+id/edit_display_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="text"
+            android:textSize="14sp"
+            android:layout_gravity="fill_horizontal"
+            android:hint="Название в списке"
+    />
+    <TextView
+            android:id="@+id/label_category_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Категория"
+            />
+    <AutoCompleteTextView
+            android:id="@+id/edit_category"
+            android:layout_gravity="fill_horizontal"
+            android:textSize="14sp"
+            android:hint="В какую категорию отнести"
+    />
+    <TextView
+            android:id="@+id/label_buyer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Покупатель"
+    />
+    <AutoCompleteTextView
+            android:id="@+id/edit_buyer_name"
+            android:layout_gravity="fill_horizontal"
+            android:textSize="14sp"
+            android:hint="Кто будет покупать?"
+    />
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Goods.ru:"
+    />
+    <TextView
+            android:id="@+id/goods_ru_link"
+            android:linksClickable="true"
+            android:autoLink="all"
+            android:textSize="14sp"
+            android:layout_gravity="fill_horizontal"
+    />
+
+</GridLayout>
