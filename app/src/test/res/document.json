@@ -1,0 +1,102 @@
+﻿{
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-09-09T13:37:00",
+            "ecashTotalSum": 208500,
+            "fiscalDocumentNumber": 24380,
+            "fiscalDriveNumber": "8710000101605935",
+            "fiscalSign": 1372353848,
+            "items": [
+               {
+                  "name": "Т/бумага ZEWA Deluxe Ромашки 3-сл.8шт",
+                  "nds18": 0,
+                  "price": 12999,
+                  "quantity": 1,
+                  "sum": 12999
+               },
+               {
+                  "name": "Молоко ПРОСТОКВАШИНО паст 2,5% п/э 930мл",
+                  "nds10": 0,
+                  "price": 6249,
+                  "quantity": 4,
+                  "sum": 24996
+               },
+               {
+                  "name": "Виноград Киш-миш зеленый вес 1кг",
+                  "nds18": 0,
+                  "price": 6999,
+                  "quantity": 0.718,
+                  "sum": 5025
+               },
+               {
+                  "name": "Молоко сгущ АЛЕКСЕЕВСКОЕ ГОСТ сашет 650г",
+                  "nds10": 0,
+                  "price": 13859,
+                  "quantity": 1,
+                  "sum": 13859
+               },
+               {
+                  "name": "Сметана ПРОСТОКВАШИНО 15% 315г",
+                  "nds10": 0,
+                  "price": 6159,
+                  "quantity": 4,
+                  "sum": 24636
+               },
+               {
+                  "name": "Творог ПРОСТОКВАШИНОклассич 2% 220г",
+                  "nds10": 0,
+                  "price": 7285,
+                  "quantity": 7,
+                  "sum": 50996
+               },
+               {
+                  "name": "Яйцо куриное ОКСКОЕ СО 10шт",
+                  "nds10": 0,
+                  "price": 8649,
+                  "quantity": 2,
+                  "sum": 17298
+               },
+               {
+                  "name": "Колбаса КЛИНСКИЙ Сливочная п/а 500г",
+                  "nds10": 0,
+                  "price": 24599,
+                  "quantity": 1,
+                  "sum": 24599
+               },
+               {
+                  "name": "Творог АГУША дет фрук черн 6мес 3,9% 100",
+                  "nds10": 0,
+                  "price": 2659,
+                  "quantity": 6,
+                  "sum": 15954
+               },
+               {
+                  "name": "Гель-шампунь LPM Кедр+минерал д/муж250мл",
+                  "nds18": 0,
+                  "price": 9499,
+                  "quantity": 1,
+                  "sum": 9499
+               },
+               {
+                  "name": "Гель д/д DOVE Чистота и комфорт 250мл",
+                  "nds18": 0,
+                  "price": 8639,
+                  "quantity": 1,
+                  "sum": 8639
+               }
+            ],
+            "kktRegId": "0001691791003486    ",
+            "nds10": 15667,
+            "nds18": 5517,
+            "operationType": 1,
+            "operator": "ШАРИПОВА МАДИНАХОН ШУХРАТОВНА",
+            "rawData": "AwA1BBEEEAA4NzEwMDAwMTAxNjA1OTM1DQQUADAwMDE2OTE3OTEwMDM0ODYgICAg+gMMADc4MTQxNDg0NzEgIBAEBAA8XwAA9AMEAPwhlVs1BAYAMQRRzHU4DgQEAEoAAAASBAQAagAAAB4EAQAB/AMDAHQuA/0DHQCYgJCIj46CgCCMgISIjYCVjo0gmJOVkICSjoKNgCMESwAGBCUAki+h46ygo6AgWkVXQSBEZWx1eGUgkK6soOiqqCAzLeGrLjjo4jcEAgDHMv8DAwAD6ANOBAEAALwEAQABvgQBAAQTBAIAxzIjBE4ABgQoAIyuq66qriCPkI6Rko6KgoCYiI2OIK+g4eIgMiw1JSCvL+0gOTMwrKs3BAIAaRj/AwMAA6APTwQBAAC8BAEAAb4EAQAEEwQCAKRhIwRGAAYEIACCqK2uo+CgpCCKqOgtrKjoIKelq6Wt66kgoqXhIDGqozcEAgBXG/8DAwADzgJOBAEAALwEAQABvgQBAAQTBAIAoRMjBE4ABgQoAIyuq66qriDho+PpIICLhYqRhYWCkYqOhSCDjpGSIOGg6KXiIDY1MKM3BAIAIzb/AwMAA+gDTwQBAAC8BAEAAb4EAQAEEwQCACM2IwREAAYEHgCRrKXioK2gII+QjpGSjoqCgJiIjY4gMTUlIDMxNaM3BAIADxj/AwMAA6APTwQBAAC8BAEAAb4EAQAEEwQCADxgIwRJAAYEIwCSoq7grqMgj5COkZKOioKAmIiNjqqroOHhqOcgMiUgMjIwozcEAgB1HP8DAwADWBtPBAEAALwEAQABvgQBAAQTBAIANMcjBEEABgQbAJ+p5q4gquPgqK2upSCOipGKjoUgkY4gMTDo4jcEAgDJIf8DAwAD0AdPBAEAALwEAQABvgQBAAQTBAIAkkMjBEkABgQjAIquq6Gg4aAgiouIjZGKiIkgkauooq7nraDvIK8voCA1MDCjNwQCABdg/wMDAAPoA08EAQAAvAQBAAG+BAEABBMEAgAXYCMETgAGBCgAkqKu4K6jIICDk5iAIKSl4iDk4OOqIOel4K0gNqyl4SAzLDklIDEwMDcEAgBjCv8DAwADcBdPBAEAALwEAQABvgQBAAQTBAIAUj4jBE4ABgQoAIOlq+wt6KCsr+Ot7CBMUE0giqWk4CusqK2l4KCrIKQvrOOmMjUwrKs3BAIAGyX/AwMAA+gDTgQBAAC8BAEAAb4EAQAEEwQCABslIwRLAAYEJQCDpavsIKQvpCBET1ZFIJeo4eKu4qAgqCCqrqzkruDiIDI1MKyrNwQCAL8h/wMDAAPoA04EAQAAvAQBAAG+BAEABBMEAgC/IU4EAgCNFU8EAgAzPRgECwCOjo4gIoulreKgIh8EAQABJAQMAHd3dy5uYWxvZy5ydQcEAQAAOQQDAHQuA78EAQAAwAQBAADBBAEAAA==",
+            "receiptCode": 3,
+            "requestNumber": 106,
+            "shiftNumber": 74,
+            "taxationType": 1,
+            "totalSum": 208500,
+            "user": "ООО \"Лента\"",
+            "userInn": "7814148471"
+         }
+      }

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <string name="default_item_name">Название продукта</string>
+    <string name="no_list">Список покупок не загружен</string>
+    <string name="category_name">category_name</string>
+    <string name="item_name">item_name</string>
+
+
+    <string name="read_spreadsheet">Read spreadsheet</string>
+    <string name="create_spreadsheet">Create spreadsheet</string>
+    <string name="welcome">Welcome, we will try Sheets API</string>
+    <string name="add">Add</string>
+    <string name="upload">Upload</string>
+    <string name="major">Major</string>
+    <string name="name">Name</string>
+    <string name="category_all_name">ВСЕ КАТЕГОРИИ</string>
+    <string name="buy_mode_name">Режим</string>
+    <string name="sync_list">Сохранить список</string>
+    <string name="buy_mode_at_home">Дома</string>
+    <string name="by_mode_at_store">В магазине</string>
+
+</resources>

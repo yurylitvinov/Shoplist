@@ -1,0 +1,3041 @@
+[
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-09-09T13:37:00",
+            "ecashTotalSum": 208500,
+            "fiscalDocumentNumber": 24380,
+            "fiscalDriveNumber": "8710000101605935",
+            "fiscalSign": 1372353848,
+            "items": [
+               {
+                  "name": "Т/бумага ZEWA Deluxe Ромашки 3-сл.8шт",
+                  "nds18": 0,
+                  "price": 12999,
+                  "quantity": 1,
+                  "sum": 12999
+               },
+               {
+                  "name": "Молоко ПРОСТОКВАШИНО паст 2,5% п/э 930мл",
+                  "nds10": 0,
+                  "price": 6249,
+                  "quantity": 4,
+                  "sum": 24996
+               },
+               {
+                  "name": "Виноград Киш-миш зеленый вес 1кг",
+                  "nds18": 0,
+                  "price": 6999,
+                  "quantity": 0.718,
+                  "sum": 5025
+               },
+               {
+                  "name": "Молоко сгущ АЛЕКСЕЕВСКОЕ ГОСТ сашет 650г",
+                  "nds10": 0,
+                  "price": 13859,
+                  "quantity": 1,
+                  "sum": 13859
+               },
+               {
+                  "name": "Сметана ПРОСТОКВАШИНО 15% 315г",
+                  "nds10": 0,
+                  "price": 6159,
+                  "quantity": 4,
+                  "sum": 24636
+               },
+               {
+                  "name": "Творог ПРОСТОКВАШИНОклассич 2% 220г",
+                  "nds10": 0,
+                  "price": 7285,
+                  "quantity": 7,
+                  "sum": 50996
+               },
+               {
+                  "name": "Яйцо куриное ОКСКОЕ СО 10шт",
+                  "nds10": 0,
+                  "price": 8649,
+                  "quantity": 2,
+                  "sum": 17298
+               },
+               {
+                  "name": "Колбаса КЛИНСКИЙ Сливочная п/а 500г",
+                  "nds10": 0,
+                  "price": 24599,
+                  "quantity": 1,
+                  "sum": 24599
+               },
+               {
+                  "name": "Творог АГУША дет фрук черн 6мес 3,9% 100",
+                  "nds10": 0,
+                  "price": 2659,
+                  "quantity": 6,
+                  "sum": 15954
+               },
+               {
+                  "name": "Гель-шампунь LPM Кедр+минерал д/муж250мл",
+                  "nds18": 0,
+                  "price": 9499,
+                  "quantity": 1,
+                  "sum": 9499
+               },
+               {
+                  "name": "Гель д/д DOVE Чистота и комфорт 250мл",
+                  "nds18": 0,
+                  "price": 8639,
+                  "quantity": 1,
+                  "sum": 8639
+               }
+            ],
+            "kktRegId": "0001691791003486    ",
+            "nds10": 15667,
+            "nds18": 5517,
+            "operationType": 1,
+            "operator": "ШАРИПОВА МАДИНАХОН ШУХРАТОВНА",
+            "rawData": "AwA1BBEEEAA4NzEwMDAwMTAxNjA1OTM1DQQUADAwMDE2OTE3OTEwMDM0ODYgICAg+gMMADc4MTQxNDg0NzEgIBAEBAA8XwAA9AMEAPwhlVs1BAYAMQRRzHU4DgQEAEoAAAASBAQAagAAAB4EAQAB/AMDAHQuA/0DHQCYgJCIj46CgCCMgISIjYCVjo0gmJOVkICSjoKNgCMESwAGBCUAki+h46ygo6AgWkVXQSBEZWx1eGUgkK6soOiqqCAzLeGrLjjo4jcEAgDHMv8DAwAD6ANOBAEAALwEAQABvgQBAAQTBAIAxzIjBE4ABgQoAIyuq66qriCPkI6Rko6KgoCYiI2OIK+g4eIgMiw1JSCvL+0gOTMwrKs3BAIAaRj/AwMAA6APTwQBAAC8BAEAAb4EAQAEEwQCAKRhIwRGAAYEIACCqK2uo+CgpCCKqOgtrKjoIKelq6Wt66kgoqXhIDGqozcEAgBXG/8DAwADzgJOBAEAALwEAQABvgQBAAQTBAIAoRMjBE4ABgQoAIyuq66qriDho+PpIICLhYqRhYWCkYqOhSCDjpGSIOGg6KXiIDY1MKM3BAIAIzb/AwMAA+gDTwQBAAC8BAEAAb4EAQAEEwQCACM2IwREAAYEHgCRrKXioK2gII+QjpGSjoqCgJiIjY4gMTUlIDMxNaM3BAIADxj/AwMAA6APTwQBAAC8BAEAAb4EAQAEEwQCADxgIwRJAAYEIwCSoq7grqMgj5COkZKOioKAmIiNjqqroOHhqOcgMiUgMjIwozcEAgB1HP8DAwADWBtPBAEAALwEAQABvgQBAAQTBAIANMcjBEEABgQbAJ+p5q4gquPgqK2upSCOipGKjoUgkY4gMTDo4jcEAgDJIf8DAwAD0AdPBAEAALwEAQABvgQBAAQTBAIAkkMjBEkABgQjAIquq6Gg4aAgiouIjZGKiIkgkauooq7nraDvIK8voCA1MDCjNwQCABdg/wMDAAPoA08EAQAAvAQBAAG+BAEABBMEAgAXYCMETgAGBCgAkqKu4K6jIICDk5iAIKSl4iDk4OOqIOel4K0gNqyl4SAzLDklIDEwMDcEAgBjCv8DAwADcBdPBAEAALwEAQABvgQBAAQTBAIAUj4jBE4ABgQoAIOlq+wt6KCsr+Ot7CBMUE0giqWk4CusqK2l4KCrIKQvrOOmMjUwrKs3BAIAGyX/AwMAA+gDTgQBAAC8BAEAAb4EAQAEEwQCABslIwRLAAYEJQCDpavsIKQvpCBET1ZFIJeo4eKu4qAgqCCqrqzkruDiIDI1MKyrNwQCAL8h/wMDAAPoA04EAQAAvAQBAAG+BAEABBMEAgC/IU4EAgCNFU8EAgAzPRgECwCOjo4gIoulreKgIh8EAQABJAQMAHd3dy5uYWxvZy5ydQcEAQAAOQQDAHQuA78EAQAAwAQBAADBBAEAAA==",
+            "receiptCode": 3,
+            "requestNumber": 106,
+            "shiftNumber": 74,
+            "taxationType": 1,
+            "totalSum": 208500,
+            "user": "ООО \"Лента\"",
+            "userInn": "7814148471"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "addressToCheckFiscalSign": "www.nalog.ru",
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-11T17:36:00",
+            "ecashTotalSum": 34270,
+            "fiscalDocumentNumber": 63290,
+            "fiscalDriveNumber": "9282000100053156",
+            "fiscalSign": 4048187167,
+            "items": [
+               {
+                  "modifiers": [],
+                  "name": "КОЛБАСА ДОКТОРСКАЯ ВАР.ИЗ ОХЛ.",
+                  "nds10": 2545,
+                  "price": 27990,
+                  "quantity": 1,
+                  "sum": 27990
+               },
+               {
+                  "modifiers": [],
+                  "name": "БАТОН НАРЕЗНОЙ Д НАР.380/400Г",
+                  "nds10": 217,
+                  "price": 2390,
+                  "quantity": 1,
+                  "sum": 2390
+               },
+               {
+                  "modifiers": [],
+                  "name": "ХЛЕБ ДАНИЛОВСКИЙ РЖАНО-ПШЕНИЧН",
+                  "nds10": 354,
+                  "price": 3890,
+                  "quantity": 1,
+                  "sum": 3890
+               }
+            ],
+            "kktRegId": "0000136609032584",
+            "modifiers": [],
+            "nds10": 3116,
+            "operationType": 1,
+            "operator": "К Ильева",
+            "rawData": "//8AHKUDARAJkoIAAQAFMVYA9zofU4Z3jgD3MAACAfwDAPgBEQQQADkyODIwMDAxMDAwNTMxNTYNBBQAMDAwMDEzNjYwOTAzMjU4NCAgICD6AwwANTAzNjA0NTIwNSAgEAQEADr3AAD0AwQAAIq/WzUEBgAxBPFKbx8OBAQAxQAAABIEBAAiAQAAHgQBAAH8AwIA3oX9AwgAiiCIq+yloqAjBEUABgQeAIqOi4GAkYAghI6Kko6QkYqAnyCCgJAuiIcgjpWLLjcEAgBWbf8DAwAD6AOvBAEAArAEAgDxCb4EAQAEEwQCAFZtIwRDAAYEHQCBgJKOjSCNgJCFh42OiSCEII2AkC4zODAvNDAwgzcEAgBWCf8DAwAD6AOvBAEAArAEAQDZvgQBAAQTBAIAVgkjBEUABgQeAJWLhYEghICNiIuOgpGKiIkgkIaAjY4tj5iFjYiXjTcEAgAyD/8DAwAD6AOvBAEAArAEAgBiAb4EAQAEEwQCADIPTwQCACwMGAQbACCAjiAihKiq4aggnoMiICCEqKrhqC01MDM3NPEDNAAxNDE3MDcsIIyOLCCjLiCErqujrq/g46St66ksIIuo5aDnpaLhqq6lIOguLCCkLiAxMS2AowQNAIygo6CnqK0ghKiq4agfBAEAASQEDAB3d3cubmFsb2cucnUHBAEAADkEAgDehb8EAQAAwAQBAADBBAEAALkEAQACgQYDl3eBWSI=",
+            "receiptCode": 3,
+            "requestNumber": 290,
+            "retailPlace": "Магазин Дикси",
+            "retailPlaceAddress": "141707, МО, г. Долгопрудный, Лихачевское ш., д. 11-А",
+            "shiftNumber": 197,
+            "stornoItems": [],
+            "taxationType": 1,
+            "totalSum": 34270,
+            "user": "АО \"Дикси ЮГ\"  Дикси-50374",
+            "userInn": "5036045205"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-11T17:30:00",
+            "ecashTotalSum": 110000,
+            "fiscalDocumentNumber": 2911,
+            "fiscalDriveNumber": "9288000100039863",
+            "fiscalSign": 4238203045,
+            "items": [
+               {
+                  "name": "0001 ПРИЕМ ВРАЧА",
+                  "nds0": 110000,
+                  "price": 110000,
+                  "quantity": 1,
+                  "sum": 110000
+               }
+            ],
+            "kktRegId": "0000381227030961    ",
+            "nds0": 110000,
+            "operationType": 1,
+            "operator": "Писарук А.В.",
+            "rawData": "AwDdABEEEAA5Mjg4MDAwMTAwMDM5ODYzDQQUADAwMDAzODEyMjcwMzA5NjEgICAg+gMMADUwMDgwNjAwMjUgIBAEBABfCwAA9AMEAJiIv1s1BAYAMQT8ndilDgQEAI0AAAASBAQAFQAAAB4EAQAB/AMDALCtASMEMAAGBBAAMDAwMSCPkIiFjCCCkICXgDcEAwCwrQH/AwMAA+gDEwQDALCtAVAEAwCwrQEHBAEAADkEAwCwrQH9AwwAj6jhoODjqiCALoIuHwQBAAIYBAsAjo6OICKEjostjCJQBAMAsK0B",
+            "receiptCode": 3,
+            "requestNumber": 21,
+            "shiftNumber": 141,
+            "taxationType": 2,
+            "totalSum": 110000,
+            "user": "ООО \"ДОЛ-М\"",
+            "userInn": "5008060025"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "addressToCheckFiscalSign": "",
+            "buyerAddress": "",
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-11T17:55:00",
+            "ecashTotalSum": 190970,
+            "fiscalDocumentNumber": 72109,
+            "fiscalDriveNumber": "8710000101741752",
+            "fiscalSign": 2725045065,
+            "items": [
+               {
+                  "name": "Флюдитек сироп 2% 125мл",
+                  "price": 37529,
+                  "quantity": 1,
+                  "sum": 37529
+               },
+               {
+                  "name": "Амбробене сироп 15мг/5мл 100мл",
+                  "price": 11424,
+                  "quantity": 1,
+                  "sum": 11424
+               },
+               {
+                  "name": "Ангиосепт Календула  р-р наруж. 200мл",
+                  "price": 19500,
+                  "quantity": 1,
+                  "sum": 19500
+               },
+               {
+                  "name": "Граммидин нео с анестетиком таб. д/рассас. №18",
+                  "price": 27260,
+                  "quantity": 1,
+                  "sum": 27260
+               },
+               {
+                  "name": "Аугментин пор. д/сусп. внутр. 400мг+57мг/5мл 12,6г 70мл",
+                  "price": 25450,
+                  "quantity": 1,
+                  "sum": 25450
+               },
+               {
+                  "name": "Зиртек таб п.о 10мг №7",
+                  "price": 19047,
+                  "quantity": 1,
+                  "sum": 19047
+               },
+               {
+                  "name": "Линекс Форте капс. №14",
+                  "price": 50760,
+                  "quantity": 1,
+                  "sum": 50760
+               }
+            ],
+            "kktRegId": "0001389104036273",
+            "nds10": 15588,
+            "ndsCalculated18": 2975,
+            "operationType": 1,
+            "operator": "Свиридонова Я. Ю.",
+            "rawData": "AwD8AhEEEAA4NzEwMDAwMTAxNzQxNzUyDQQUADAwMDEzODkxMDQwMzYyNzMgICAg+gMMADc3MzIxMjE3MzYgIBAEBACtGQEA9AMEAHSOv1s1BAYAMQSibONJDgQEAGYBAAASBAQAYQAAAB4EAQAB/AMDAPrpAiMEQgAGBBcAlKvupKjipaog4ajgrq8gMiUgMTI1rKs3BAIAmZL/AwIAAAETBAIAmZKvBAEAArAEAgBUDbwEAQABvgQBAAQjBEkABgQeAICsoeCuoaWtpSDhqOCuryAxNayjLzWsqyAxMDCsqzcEAgCgLP8DAgAAARMEAgCgLK8EAQACsAQCAA8EvAQBAAG+BAEABCMEUAAGBCUAgK2jqK7hpa/iIIqgq6WtpOOroCAg4C3gIK2g4OOmLiAyMDCsqzcEAgAsTP8DAgAAARMEAgAsTK8EAQADsAQCAJ8LvAQBAAG+BAEABCMEWQAGBC4Ag+CgrKyopKitIK2lriDhIKCtpeHipeKoqq6sIOKgoS4gpC/goOHhoOEuIPwxODcEAgB8av8DAgAAARMEAgB8aq8EAQACsAQCAK4JvAQBAAG+BAEABCMEYgAGBDcAgOOjrKWt4qitIK+u4C4gpC/h4+GvLiCirePi4C4gNDAwrKMrNTesoy81rKsgMTIsNqMgNzCsqzcEAgBqY/8DAgAAARMEAgBqY68EAQACsAQCAAoJvAQBAAG+BAEABCMEQQAGBBYAh6jg4qWqIOKgoSCvLq4gMTCsoyD8NzcEAgBnSv8DAgAAARMEAgBnSq8EAQACsAQCAMQGvAQBAAG+BAEABCMEQQAGBBYAi6itparhIJSu4OKlIKqgr+EuIPwxNDcEAgBIxv8DAgAAARMEAgBIxq8EAQACsAQCAAcSvAQBAAG+BAEABAcEAQAAOQQDAPrpAr8EAQAAwAQBAADBBAEAAP0DEQCRoqjgqKSura6ioCCfLiCeLrMEDAAzNDU1MDI4MDAwNTAfBAEAAbkEAQACTwQCAOQ8UgQCAJ8L",
+            "receiptCode": 3,
+            "requestNumber": 97,
+            "retailPlaceAddress": "",
+            "senderAddress": "",
+            "shiftNumber": 358,
+            "taxationType": 1,
+            "totalSum": 190970,
+            "user": "",
+            "userInn": "7732121736"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-11T18:03:00",
+            "ecashTotalSum": 27568,
+            "fiscalDocumentNumber": 101041,
+            "fiscalDriveNumber": "8710000101908404",
+            "fiscalSign": 2252682315,
+            "items": [
+               {
+                  "modifiers": [],
+                  "name": "ХЛЕБ ДОМАШНИЙ НА КЕФИРЕ 1ШТ.ИЗ",
+                  "nds10": 417,
+                  "price": 4590,
+                  "quantity": 1,
+                  "sum": 4590
+               },
+               {
+                  "modifiers": [],
+                  "name": "ВОДА МИН.БОРЖОМИ ГАЗ П/Б 0,75Л",
+                  "nds18": 2682,
+                  "price": 8790,
+                  "quantity": 2,
+                  "sum": 17580
+               },
+               {
+                  "modifiers": [],
+                  "name": "ШОКОЛАД БАБАЕВСКИЙ С ПОМАДНО-С",
+                  "nds18": 823,
+                  "price": 2699,
+                  "quantity": 2,
+                  "sum": 5398
+               }
+            ],
+            "kktRegId": "0000136610041545",
+            "modifiers": [],
+            "nds10": 417,
+            "nds18": 3505,
+            "operationType": 1,
+            "operator": "К Раджабова",
+            "rawData": "//8AHKUDARAJhxAAAQGQhAQBirEP9QVWCwGKfQACAeIDAN4BEQQQADg3MTAwMDAxMDE5MDg0MDQNBBQAMDAwMDEzNjYxMDA0MTU0NSAgICD6AwwANTAzNjA0NTIwNSAgEAQEALGKAQD0AwQAVJC/WzUEBgAxBIZFNEsOBAQA2AAAABIEBABvAAAAHgQBAAH8AwIAsGv9AwsAiiCQoKSmoKGuoqAjBEAABgQeAJWLhYEghI6MgJiNiIkgjYAgioWUiJCFIDGYki6IhzcEAgDuEf8DAwAD6ANPBAIAoQG+BAEABBMEAgDuESMEQAAGBB4Ago6EgCCMiI0ugY6Qho6MiCCDgIcgjy+BIDAsNzWLNwQCAFYi/wMDAAPQB04EAgB6Cr4EAQAEEwQCAKxEIwRAAAYEHgCYjoqOi4CEIIGAgYCFgpGKiIkgkSCPjoyAhI2OLZE3BAIAiwr/AwMAA9AHTgQCADcDvgQBAAQTBAIAFhVOBAIAsQ1PBAIAoQEYBBsAIICOICKEqKrhqCCegyIgIISoquGoLTUwMzc08QM0ADE0MTcwNywgjI4sIKMuIISuq6Our+DjpK3rqSwgi6jloOelouGqrqUg6C4sIKQuIDExLYAfBAEAASQEDAB3d3cubmFsb2cucnUHBAEAADkEAgCwa78EAQAAwAQBAADBBAEAAIEGaQu6nfBV",
+            "receiptCode": 3,
+            "requestNumber": 111,
+            "retailPlaceAddress": "141707, МО, г. Долгопрудный, Лихачевское ш., д. 11-А",
+            "shiftNumber": 216,
+            "stornoItems": [],
+            "taxationType": 1,
+            "totalSum": 27568,
+            "user": "АО \"Дикси ЮГ\"  Дикси-50374",
+            "userInn": "5036045205"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-13T12:06:00",
+            "ecashTotalSum": 178718,
+            "fiscalDocumentNumber": 25467,
+            "fiscalDriveNumber": "9288000100145251",
+            "fiscalSign": 895374159,
+            "items": [
+               {
+                  "name": "ТРК-1 RACE АИ-95-К5",
+                  "nds18": 27262,
+                  "price": 4658,
+                  "quantity": 38.368,
+                  "sum": 178718
+               }
+            ],
+            "kktRegId": "0001212576025046",
+            "nds18": 27262,
+            "operationType": 1,
+            "operator": "Кассир",
+            "rawData": "pQMBEJmSiAABABRSUQBjewX+LjaOAGK7AAIBJgMAIgERBBAAOTI4ODAwMDEwMDE0NTI1MQ0EFAAwMDAxMjEyNTc2MDI1MDQ2ICAgIPoDDAA3NzA0MjIyNTg4ICAQBAQAe2MAAPQDBACo38FbNQQGADEENV5TTw4EBAAnAAAAEgQEAMAAAAAeBAEAAfwDAwAeugIjBDEABgQTAJKQii0xIFJBQ0UggIgtOTUtijU3BAIAMhL/AwMAA+CVEwQDAB66Ak4EAgB+av0DBgCKoOHhqOAHBAEAADkEAwAeugJOBAIAfmoYBBYAjo6OICKNgYAtkYWChZCOLYeAj4CEIvEDPAAxNDE3MDcsIIyu4aquouGqoO8grqGroOHi7Cwgoy4ghK6ro66v4OOkreupLCDoLiCLqOWg56Wi4aqupSAfBAEAAQ==",
+            "receiptCode": 3,
+            "requestNumber": 192,
+            "retailPlaceAddress": "141707, Московская область, г. Долгопрудный, ш. Лихачевское",
+            "shiftNumber": 39,
+            "taxationType": 1,
+            "totalSum": 178718,
+            "user": "ООО \"НБА-СЕВЕРО-ЗАПАД\"",
+            "userInn": "7704222588"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-13T16:27:00",
+            "ecashTotalSum": 62600,
+            "fiscalDocumentNumber": 17618,
+            "fiscalDriveNumber": "9289000100086795",
+            "fiscalSign": 1205785163,
+            "items": [
+               {
+                  "modifiers": [],
+                  "name": "396719327, Burti, Средство синтетическое жидкое для цветного и тонкого белья Liquid, 1500мл",
+                  "nds18": 4775,
+                  "price": 31300,
+                  "quantity": 1,
+                  "sum": 31300
+               },
+               {
+                  "modifiers": [],
+                  "name": "396719328, Burti, Средство синтетическое жидкое для цветного и тонкого белья Liquid, 1500мл",
+                  "nds18": 4775,
+                  "price": 31300,
+                  "quantity": 1,
+                  "sum": 31300
+               }
+            ],
+            "kktRegId": "0000460210023862",
+            "modifiers": [],
+            "nds18": 9550,
+            "operationType": 1,
+            "operator": "Остроухов Даниил Евгеньевич",
+            "rawData": "//8AHKUDARAJkokAAQAIZ5UARNJZuVAdVABDqwACAbkDALUBEQQQADkyODkwMDAxMDAwODY3OTUNBBQAMDAwMDQ2MDIxMDAyMzg2MiAgICD6AwwANzcyMTU0Njg2NCAgEAQEANJEAAD0AwQA1BzCWzUEBgAxBEfe0ksOBAQAggAAABIEBABCAAAAHgQBAAH8AwIAiPQjBHwABgRbADM5NjcxOTMyNywgQnVydGksIJHgpaTh4qKuIOGoreKl4qjnpeGqrqUgpqikqq6lIKSr7yDmoqXira6jriCoIOKuraquo64goaWr7O8gTGlxdWlkLCAxNTAwrKs3BAIARHr/AwIAAAETBAIARHqvBAEAAbAEAgCnEiMEfAAGBFsAMzk2NzE5MzI4LCBCdXJ0aSwgkeClpOHioq4g4ait4qXiqOel4aqupSCmqKSqrqUgpKvvIOaipeKtrqOuIKgg4q6tqq6jriChpavs7yBMaXF1aWQsIDE1MDCsqzcEAgBEev8DAgAAARMEAgBEeq8EAQABsAQCAKcSBwQBAAA5BAIAiPS/BAEAAMAEAQAAwQQBAAD9AxsAjuHi4K7j5a6iIISgraioqyCFoqOlreyloqjnHwQBAAFOBAIATiWBBheoLddwwg==",
+            "receiptCode": 3,
+            "requestNumber": 66,
+            "shiftNumber": 130,
+            "stornoItems": [],
+            "taxationType": 1,
+            "totalSum": 62600,
+            "user": "",
+            "userInn": "7721546864"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "dateTime": "2018-08-24T13:11:00",
+            "ecashTotalSum": 776531,
+            "fiscalDocumentNumber": 17477,
+            "fiscalDriveNumber": "9288000100036366",
+            "fiscalSign": 980159784,
+            "items": [
+               {
+                  "name": "ЕССЕНТУКИ №17 МИН.ВО",
+                  "ndsRate": 1,
+                  "ndsSum": 814,
+                  "price": 5334,
+                  "quantity": 1,
+                  "sum": 5334
+               },
+               {
+                  "name": "МОРСКАЯ НАТУРАЛЬНАЯ",
+                  "ndsRate": 1,
+                  "ndsSum": 273,
+                  "price": 1790,
+                  "quantity": 1,
+                  "sum": 1790
+               },
+               {
+                  "name": "МОРСКАЯ НАТУРАЛЬНАЯ",
+                  "ndsRate": 1,
+                  "ndsSum": 273,
+                  "price": 1790,
+                  "quantity": 1,
+                  "sum": 1790
+               },
+               {
+                  "name": "СР-ВО Д/ИНТ ГИГ ЛАКТ",
+                  "ndsRate": 1,
+                  "ndsSum": 4304,
+                  "price": 28214,
+                  "quantity": 1,
+                  "sum": 28214
+               },
+               {
+                  "name": "ГЕЛЬ ДЛЯ ДУША 250 МЛ",
+                  "ndsRate": 1,
+                  "ndsSum": 1686,
+                  "price": 11051,
+                  "quantity": 1,
+                  "sum": 11051
+               },
+               {
+                  "name": "ЕССЕНТУКИ №4 МИН.ВОД",
+                  "ndsRate": 1,
+                  "ndsSum": 814,
+                  "price": 5334,
+                  "quantity": 1,
+                  "sum": 5334
+               },
+               {
+                  "name": "МОЛ СГУЩ 270Г ДП ВОЛ",
+                  "ndsRate": 2,
+                  "ndsSum": 631,
+                  "price": 6945,
+                  "quantity": 1,
+                  "sum": 6945
+               },
+               {
+                  "name": "GM МАЙОНЕЗ РЯБА 250М",
+                  "ndsRate": 1,
+                  "ndsSum": 604,
+                  "price": 3962,
+                  "quantity": 1,
+                  "sum": 3962
+               },
+               {
+                  "name": "САХАР ПЕС.ТРОСТ 0,9",
+                  "ndsRate": 2,
+                  "ndsSum": 1292,
+                  "price": 14213,
+                  "quantity": 1,
+                  "sum": 14213
+               },
+               {
+                  "name": "ФИЛЕ МЕДАЛЬОН (ЛОТОК",
+                  "ndsRate": 2,
+                  "ndsSum": 2037,
+                  "price": 27772,
+                  "quantity": 0.807,
+                  "sum": 22412
+               },
+               {
+                  "name": "ФИЛЕ БЕДРА ИНДЕЙКИ",
+                  "ndsRate": 2,
+                  "ndsSum": 3049,
+                  "price": 37689,
+                  "quantity": 0.89,
+                  "sum": 33543
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ ИНДЕЙКИ",
+                  "ndsRate": 2,
+                  "ndsSum": 2978,
+                  "price": 42993,
+                  "quantity": 0.762,
+                  "sum": 32761
+               },
+               {
+                  "name": "ФИЛЕ БЕДРА ОХЛ",
+                  "ndsRate": 2,
+                  "ndsSum": 2174,
+                  "price": 28707,
+                  "quantity": 0.833,
+                  "sum": 23913
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ ИНДЕЙКИ",
+                  "ndsRate": 2,
+                  "ndsSum": 2560,
+                  "price": 42993,
+                  "quantity": 0.655,
+                  "sum": 28160
+               },
+               {
+                  "name": "КЕКС С ПЕРСИКАМИ ВЕС",
+                  "ndsRate": 1,
+                  "ndsSum": 1796,
+                  "price": 30990,
+                  "quantity": 0.38,
+                  "sum": 11776
+               },
+               {
+                  "name": "КЕКС МРАМОРНЫЙ ВЕС",
+                  "ndsRate": 1,
+                  "ndsSum": 639,
+                  "price": 21140,
+                  "quantity": 0.198,
+                  "sum": 4186
+               },
+               {
+                  "name": "ВАТН.ПАЛ.300 Я САМАЯ",
+                  "ndsRate": 1,
+                  "ndsSum": 772,
+                  "price": 5062,
+                  "quantity": 1,
+                  "sum": 5062
+               },
+               {
+                  "name": "МЮСЛИ ВИШ-КЛЮК 325Г",
+                  "ndsRate": 1,
+                  "ndsSum": 5608,
+                  "price": 36763,
+                  "quantity": 1,
+                  "sum": 36763
+               },
+               {
+                  "name": "ЕРШИКИ МЕЖЗУБНЫЕ",
+                  "ndsRate": 1,
+                  "ndsSum": 2277,
+                  "price": 14928,
+                  "quantity": 1,
+                  "sum": 14928
+               },
+               {
+                  "name": "РУЧ.ШАР СИН, 0,7ММ",
+                  "ndsRate": 1,
+                  "ndsSum": 1440,
+                  "price": 9443,
+                  "quantity": 1,
+                  "sum": 9443
+               },
+               {
+                  "name": "З/НИТЬ ESSENT МЯТН.",
+                  "ndsRate": 1,
+                  "ndsSum": 2867,
+                  "price": 18796,
+                  "quantity": 1,
+                  "sum": 18796
+               },
+               {
+                  "name": "ПРОКЛULTRA SUPER PL",
+                  "ndsRate": 1,
+                  "ndsSum": 1953,
+                  "price": 12802,
+                  "quantity": 1,
+                  "sum": 12802
+               },
+               {
+                  "name": "ПРОКЛ ALWAYS SENS",
+                  "ndsRate": 1,
+                  "ndsSum": 1251,
+                  "price": 8204,
+                  "quantity": 1,
+                  "sum": 8204
+               },
+               {
+                  "name": "РУЧ.ШАР СИН, 0,7ММ",
+                  "ndsRate": 1,
+                  "ndsSum": 1440,
+                  "price": 9443,
+                  "quantity": 1,
+                  "sum": 9443
+               },
+               {
+                  "name": "З/НИТЬ ESSENT МЯТН.",
+                  "ndsRate": 1,
+                  "ndsSum": 2867,
+                  "price": 18796,
+                  "quantity": 1,
+                  "sum": 18796
+               },
+               {
+                  "name": "РУЧ.ШАР АВТ.СИН,0,7М",
+                  "ndsRate": 1,
+                  "ndsSum": 1664,
+                  "price": 10910,
+                  "quantity": 1,
+                  "sum": 10910
+               },
+               {
+                  "name": "РУЧ.ШАР АВТ.СИН,0,7М",
+                  "ndsRate": 1,
+                  "ndsSum": 1664,
+                  "price": 10910,
+                  "quantity": 1,
+                  "sum": 10910
+               },
+               {
+                  "name": "БАГЕТ ФРАНЦУЗСКИЙ290",
+                  "ndsRate": 2,
+                  "ndsSum": 900,
+                  "price": 9900,
+                  "quantity": 1,
+                  "sum": 9900
+               },
+               {
+                  "name": "ЛАКАЛЮТ З/П СЕНСИТИВ",
+                  "ndsRate": 1,
+                  "ndsSum": 3388,
+                  "price": 22213,
+                  "quantity": 1,
+                  "sum": 22213
+               },
+               {
+                  "name": "ТЕТР 18Л КЛ ТЕКСТУРА",
+                  "ndsRate": 2,
+                  "ndsSum": 497,
+                  "price": 1368,
+                  "quantity": 4,
+                  "sum": 5472
+               },
+               {
+                  "name": "ТЕТРАДЬ 12Л,КЛЕТКА",
+                  "ndsRate": 2,
+                  "ndsSum": 2196,
+                  "price": 1208,
+                  "quantity": 20,
+                  "sum": 24160
+               },
+               {
+                  "name": "СЫР ВИОЛА ПЛАВ 400ГР",
+                  "ndsRate": 2,
+                  "ndsSum": 1700,
+                  "price": 18704,
+                  "quantity": 1,
+                  "sum": 18704
+               },
+               {
+                  "name": "СЫР ТИЛЬЗИТЕР 250Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1667,
+                  "price": 18333,
+                  "quantity": 1,
+                  "sum": 18333
+               },
+               {
+                  "name": "ТЕТР 18Л ЛИН ТЕКСТУР",
+                  "ndsRate": 2,
+                  "ndsSum": 622,
+                  "price": 1368,
+                  "quantity": 5,
+                  "sum": 6840
+               },
+               {
+                  "name": "ТЕТР 12Л У/ЛИН ТЕКС",
+                  "ndsRate": 2,
+                  "ndsSum": 549,
+                  "price": 1208,
+                  "quantity": 5,
+                  "sum": 6040
+               },
+               {
+                  "name": "ТЕТР 24Л КЛ ТЕКСТУРА",
+                  "ndsRate": 2,
+                  "ndsSum": 415,
+                  "price": 1522,
+                  "quantity": 3,
+                  "sum": 4566
+               },
+               {
+                  "name": "ТЕТР 24Л КЛ ТЕКСТУРА",
+                  "ndsRate": 2,
+                  "ndsSum": 969,
+                  "price": 1522,
+                  "quantity": 7,
+                  "sum": 10654
+               },
+               {
+                  "name": "ТЕТР 18Л КЛ ТЕКСТУРА",
+                  "ndsRate": 2,
+                  "ndsSum": 1741,
+                  "price": 1368,
+                  "quantity": 14,
+                  "sum": 19152
+               },
+               {
+                  "name": "КАР.ЧЕРНОГР.SWANO 3Ш",
+                  "ndsRate": 1,
+                  "ndsSum": 975,
+                  "price": 6389,
+                  "quantity": 1,
+                  "sum": 6389
+               },
+               {
+                  "name": "НАБ ЧЕРН.КАРАН 3ШТ",
+                  "ndsRate": 1,
+                  "ndsSum": 852,
+                  "price": 5587,
+                  "quantity": 1,
+                  "sum": 5587
+               },
+               {
+                  "name": "ПЕЧ.КЛЮК/БЕЛ.ШОК.200",
+                  "ndsRate": 1,
+                  "ndsSum": 3741,
+                  "price": 24526,
+                  "quantity": 1,
+                  "sum": 24526
+               },
+               {
+                  "name": "ПЕЧ.КЛЮК/БЕЛ.ШОК.200",
+                  "ndsRate": 1,
+                  "ndsSum": 3741,
+                  "price": 24526,
+                  "quantity": 1,
+                  "sum": 24526
+               },
+               {
+                  "name": "ПЕЧ.КЛЮК/БЕЛ.ШОК.200",
+                  "ndsRate": 1,
+                  "ndsSum": 3741,
+                  "price": 24526,
+                  "quantity": 1,
+                  "sum": 24526
+               },
+               {
+                  "name": "ЛАКАЛЮТ З/П СЕНСИТИВ",
+                  "ndsRate": 1,
+                  "ndsSum": 3388,
+                  "price": 22213,
+                  "quantity": 1,
+                  "sum": 22213
+               },
+               {
+                  "name": "РУЧ.ШАР СИН, 0,7ММ",
+                  "ndsRate": 1,
+                  "ndsSum": 1440,
+                  "price": 9443,
+                  "quantity": 1,
+                  "sum": 9443
+               },
+               {
+                  "name": "РУЧ.ШАР СИН, 0,7ММ",
+                  "ndsRate": 1,
+                  "ndsSum": 1440,
+                  "price": 9443,
+                  "quantity": 1,
+                  "sum": 9443
+               },
+               {
+                  "name": "СЫР ЛАМБЕР 50% 230Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1507,
+                  "price": 16582,
+                  "quantity": 1,
+                  "sum": 16582
+               },
+               {
+                  "name": "ПРОКЛ СУПЕР ПЛАТ",
+                  "ndsRate": 1,
+                  "ndsSum": 1251,
+                  "price": 8204,
+                  "quantity": 1,
+                  "sum": 8204
+               },
+               {
+                  "name": "Я САМАЯ ВАТН.ДИСКИ",
+                  "ndsRate": 1,
+                  "ndsSum": 817,
+                  "price": 5358,
+                  "quantity": 1,
+                  "sum": 5358
+               },
+               {
+                  "name": "ЛК ПЕЧЕН.ОВСЯН.ТОПЛ.",
+                  "ndsRate": 1,
+                  "ndsSum": 824,
+                  "price": 5400,
+                  "quantity": 1,
+                  "sum": 5400
+               },
+               {
+                  "name": "СЫР БРИ ПРЕЗИДЕНТ",
+                  "ndsRate": 2,
+                  "ndsSum": 3065,
+                  "price": 33716,
+                  "quantity": 1,
+                  "sum": 33716
+               },
+               {
+                  "name": "Я САМАЯ ВАТН.ДИСКИ",
+                  "ndsRate": 1,
+                  "ndsSum": 817,
+                  "price": 5358,
+                  "quantity": 1,
+                  "sum": 5358
+               },
+               {
+                  "name": "ГОЛУБИКА ИМПОРТ ШТ",
+                  "ndsRate": 1,
+                  "ndsSum": 1921,
+                  "price": 12595,
+                  "quantity": 1,
+                  "sum": 12595
+               },
+               {
+                  "name": "ГОЛУБИКА ИМПОРТ ШТ",
+                  "ndsRate": 1,
+                  "ndsSum": 1921,
+                  "price": 12595,
+                  "quantity": 1,
+                  "sum": 12595
+               },
+               {
+                  "name": "ГОЛУБИКА ИМПОРТ ШТ",
+                  "ndsRate": 1,
+                  "ndsSum": 1921,
+                  "price": 12595,
+                  "quantity": 1,
+                  "sum": 12595
+               }
+            ],
+            "kktRegId": "0000303397052411    ",
+            "nds10": 30551,
+            "nds18": 67190,
+            "operationType": 1,
+            "operator": "Раиса",
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "receiptCode": 3,
+            "requestNumber": 60,
+            "shiftNumber": 105,
+            "taxationType": 1,
+            "totalSum": 776531,
+            "userInn": "7703270067"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "dateTime": "2018-10-01T11:50:00",
+            "ecashTotalSum": 791957,
+            "fiscalDocumentNumber": 23518,
+            "fiscalDriveNumber": "9288000100036295",
+            "fiscalSign": 2249666801,
+            "items": [
+               {
+                  "name": "Т/БУМ ЗЕВА ДЕЛЮКС",
+                  "ndsRate": 1,
+                  "ndsSum": 2221,
+                  "price": 14563,
+                  "quantity": 1,
+                  "sum": 14563
+               },
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 4514,
+                  "price": 6207,
+                  "quantity": 8,
+                  "sum": 49656
+               },
+               {
+                  "name": "ЧЕЛЛЕНТАНИ 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 698,
+                  "price": 7681,
+                  "quantity": 1,
+                  "sum": 7681
+               },
+               {
+                  "name": "ЧЕЛЛЕНТАНИ 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 698,
+                  "price": 7681,
+                  "quantity": 1,
+                  "sum": 7681
+               },
+               {
+                  "name": "ПРО СМЕТАНА 15% 315Г",
+                  "ndsRate": 2,
+                  "ndsSum": 4353,
+                  "price": 3990,
+                  "quantity": 12,
+                  "sum": 47880
+               },
+               {
+                  "name": "ТВОРОГ КЛ-Й 2% 220Г",
+                  "ndsRate": 2,
+                  "ndsSum": 780,
+                  "price": 8584,
+                  "quantity": 1,
+                  "sum": 8584
+               },
+               {
+                  "name": "ТВОРОГ КЛ-Й 2% 220Г",
+                  "ndsRate": 2,
+                  "ndsSum": 780,
+                  "price": 8584,
+                  "quantity": 1,
+                  "sum": 8584
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ ИНДЕЙКИ",
+                  "ndsRate": 2,
+                  "ndsSum": 3127,
+                  "price": 42993,
+                  "quantity": 0.8,
+                  "sum": 34394
+               },
+               {
+                  "name": "ГОЛ.КУР.ОХЛ.П.1КГ ЭЛ",
+                  "ndsRate": 2,
+                  "ndsSum": 1491,
+                  "price": 18680,
+                  "quantity": 0.878,
+                  "sum": 16401
+               },
+               {
+                  "name": "ФИЛЕ ГРУДКИ(ЛОТ)ОХЛ",
+                  "ndsRate": 2,
+                  "ndsSum": 2022,
+                  "price": 28405,
+                  "quantity": 0.783,
+                  "sum": 22241
+               },
+               {
+                  "name": "СЫР СЛИВОЧ 55% ВЕС",
+                  "ndsRate": 2,
+                  "ndsSum": 2351,
+                  "price": 86187,
+                  "quantity": 0.3,
+                  "sum": 25856
+               },
+               {
+                  "name": "СЫР СЛИВОЧ 55% ВЕС",
+                  "ndsRate": 2,
+                  "ndsSum": 2131,
+                  "price": 86187,
+                  "quantity": 0.272,
+                  "sum": 23443
+               },
+               {
+                  "name": "СЫР СЛИВОЧ 55% ВЕС",
+                  "ndsRate": 2,
+                  "ndsSum": 1849,
+                  "price": 86187,
+                  "quantity": 0.236,
+                  "sum": 20340
+               },
+               {
+                  "name": "ВЛ.САЛФ.64 ШТ ХАГГИС",
+                  "ndsRate": 1,
+                  "ndsSum": 1465,
+                  "price": 9603,
+                  "quantity": 1,
+                  "sum": 9603
+               },
+               {
+                  "name": "РИС ПРОПАР.1КГ ДОН Г",
+                  "ndsRate": 2,
+                  "ndsSum": 609,
+                  "price": 6700,
+                  "quantity": 1,
+                  "sum": 6700
+               },
+               {
+                  "name": "САХАР-ПЕСОК 1КГ",
+                  "ndsRate": 2,
+                  "ndsSum": 279,
+                  "price": 3069,
+                  "quantity": 1,
+                  "sum": 3069
+               },
+               {
+                  "name": "РУКАВ Д/ЗАПЕК.XXL CE",
+                  "ndsRate": 1,
+                  "ndsSum": 816,
+                  "price": 5348,
+                  "quantity": 1,
+                  "sum": 5348
+               },
+               {
+                  "name": "СР-ВО Д/ИНТ ГИГ ЛАКТ",
+                  "ndsRate": 1,
+                  "ndsSum": 4120,
+                  "price": 27012,
+                  "quantity": 1,
+                  "sum": 27012
+               },
+               {
+                  "name": "ОПОЛ. АЛТАЙСКИЕ ТРАВ",
+                  "ndsRate": 1,
+                  "ndsSum": 1221,
+                  "price": 8004,
+                  "quantity": 1,
+                  "sum": 8004
+               },
+               {
+                  "name": "ОПОЛ. АЛТАЙСКИЕ ТРАВ",
+                  "ndsRate": 1,
+                  "ndsSum": 1221,
+                  "price": 8004,
+                  "quantity": 1,
+                  "sum": 8004
+               },
+               {
+                  "name": "МАМА ЛИМОН СР.Д/П 1Л",
+                  "ndsRate": 1,
+                  "ndsSum": 4727,
+                  "price": 30986,
+                  "quantity": 1,
+                  "sum": 30986
+               },
+               {
+                  "name": "СОЛ ФАС.ЭКС.ЙОД.750Г",
+                  "ndsRate": 2,
+                  "ndsSum": 385,
+                  "price": 4239,
+                  "quantity": 1,
+                  "sum": 4239
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 1534,
+                  "price": 16878,
+                  "quantity": 1,
+                  "sum": 16878
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 1534,
+                  "price": 16878,
+                  "quantity": 1,
+                  "sum": 16878
+               },
+               {
+                  "name": "CAMAY ГЕЛЬ Д/Д МАГ",
+                  "ndsRate": 1,
+                  "ndsSum": 1909,
+                  "price": 12513,
+                  "quantity": 1,
+                  "sum": 12513
+               },
+               {
+                  "name": "МОЛОКО ДЕТС 2,5% 200",
+                  "ndsRate": 2,
+                  "ndsSum": 237,
+                  "price": 2609,
+                  "quantity": 1,
+                  "sum": 2609
+               },
+               {
+                  "name": "МОЛОКО ДЕТС 2,5% 200",
+                  "ndsRate": 2,
+                  "ndsSum": 237,
+                  "price": 2609,
+                  "quantity": 1,
+                  "sum": 2609
+               },
+               {
+                  "name": "МОЛОКО ДЕТС 2,5% 200",
+                  "ndsRate": 2,
+                  "ndsSum": 237,
+                  "price": 2609,
+                  "quantity": 1,
+                  "sum": 2609
+               },
+               {
+                  "name": "МОЛОКО ДЕТС 2,5% 200",
+                  "ndsRate": 2,
+                  "ndsSum": 237,
+                  "price": 2609,
+                  "quantity": 1,
+                  "sum": 2609
+               },
+               {
+                  "name": "ГЕЛЬ/ДУШ ДИНАМИК 25",
+                  "ndsRate": 1,
+                  "ndsSum": 1909,
+                  "price": 12513,
+                  "quantity": 1,
+                  "sum": 12513
+               },
+               {
+                  "name": "ЖМ ДЕТСКОЕ ЧЕРЕДА",
+                  "ndsRate": 1,
+                  "ndsSum": 3495,
+                  "price": 5728,
+                  "quantity": 4,
+                  "sum": 22912
+               },
+               {
+                  "name": "MDD/YEST ВЛ САЛФ Д/Р",
+                  "ndsRate": 1,
+                  "ndsSum": 1373,
+                  "price": 3000,
+                  "quantity": 3,
+                  "sum": 9000
+               },
+               {
+                  "name": "MINI COTONE 70  NERO",
+                  "ndsRate": 1,
+                  "ndsSum": 2657,
+                  "price": 17421,
+                  "quantity": 1,
+                  "sum": 17421
+               },
+               {
+                  "name": "З/ЩЕТКА SPLAT WHITEN",
+                  "ndsRate": 1,
+                  "ndsSum": 2501,
+                  "price": 16393,
+                  "quantity": 1,
+                  "sum": 16393
+               },
+               {
+                  "name": "З/П ЛАКАЛЮТ АКТИВ 75",
+                  "ndsRate": 1,
+                  "ndsSum": 2871,
+                  "price": 18818,
+                  "quantity": 1,
+                  "sum": 18818
+               },
+               {
+                  "name": "КОНФ.БАТОНЧИКИ РФ,",
+                  "ndsRate": 1,
+                  "ndsSum": 3129,
+                  "price": 27572,
+                  "quantity": 0.744,
+                  "sum": 20514
+               },
+               {
+                  "name": "З/ПАСТА ЗЕМЛЯНИКА 74",
+                  "ndsRate": 1,
+                  "ndsSum": 3040,
+                  "price": 19931,
+                  "quantity": 1,
+                  "sum": 19931
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 10",
+                  "ndsRate": 2,
+                  "ndsSum": 2419,
+                  "price": 8870,
+                  "quantity": 3,
+                  "sum": 26610
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1969,
+                  "price": 12906,
+                  "quantity": 1,
+                  "sum": 12906
+               },
+               {
+                  "name": "ПРОДУКТ ТВОР.3,9%100",
+                  "ndsRate": 2,
+                  "ndsSum": 2813,
+                  "price": 2579,
+                  "quantity": 12,
+                  "sum": 30948
+               },
+               {
+                  "name": "СУМ.БУМ АВ360Х260Х1",
+                  "ndsRate": 1,
+                  "ndsSum": 810,
+                  "price": 5309,
+                  "quantity": 1,
+                  "sum": 5309
+               },
+               {
+                  "name": "СУМ.БУМ АВ360Х260Х1",
+                  "ndsRate": 1,
+                  "ndsSum": 810,
+                  "price": 5309,
+                  "quantity": 1,
+                  "sum": 5309
+               },
+               {
+                  "name": "СУМ.БУМ АВ360Х260Х1",
+                  "ndsRate": 1,
+                  "ndsSum": 810,
+                  "price": 5309,
+                  "quantity": 1,
+                  "sum": 5309
+               },
+               {
+                  "name": "СУМ.БУМ АВ360Х260Х1",
+                  "ndsRate": 1,
+                  "ndsSum": 810,
+                  "price": 5309,
+                  "quantity": 1,
+                  "sum": 5309
+               },
+               {
+                  "name": "КОКТЕЙЛЬ ДЖАЗ 250Г",
+                  "ndsRate": 1,
+                  "ndsSum": 3418,
+                  "price": 22406,
+                  "quantity": 1,
+                  "sum": 22406
+               },
+               {
+                  "name": "БАГЕТ ФРАНЦУЗСКИЙ290",
+                  "ndsRate": 2,
+                  "ndsSum": 900,
+                  "price": 9900,
+                  "quantity": 1,
+                  "sum": 9900
+               },
+               {
+                  "name": "ЧИАБАТТА ТЕМНАЯ 250Г",
+                  "ndsRate": 2,
+                  "ndsSum": 818,
+                  "price": 9000,
+                  "quantity": 1,
+                  "sum": 9000
+               },
+               {
+                  "name": "ЙОГ ПЕЧЕНОЕ ЯБЛ 120Г",
+                  "ndsRate": 2,
+                  "ndsSum": 348,
+                  "price": 3831,
+                  "quantity": 1,
+                  "sum": 3831
+               },
+               {
+                  "name": "ЙОГ МАНГО/АПЕЛ.120Г",
+                  "ndsRate": 2,
+                  "ndsSum": 317,
+                  "price": 3491,
+                  "quantity": 1,
+                  "sum": 3491
+               },
+               {
+                  "name": "ЙОГ ПЕР-ГРУШ 2,5%",
+                  "ndsRate": 2,
+                  "ndsSum": 361,
+                  "price": 3967,
+                  "quantity": 1,
+                  "sum": 3967
+               },
+               {
+                  "name": "ЙОГ С ВИШНЕЙ 3,2%150",
+                  "ndsRate": 2,
+                  "ndsSum": 402,
+                  "price": 4421,
+                  "quantity": 1,
+                  "sum": 4421
+               },
+               {
+                  "name": "ЙОГ С ВИШНЕЙ 3,2%150",
+                  "ndsRate": 2,
+                  "ndsSum": 402,
+                  "price": 4421,
+                  "quantity": 1,
+                  "sum": 4421
+               },
+               {
+                  "name": "LED 5-40W (12V) GU5",
+                  "ndsRate": 1,
+                  "ndsSum": 1307,
+                  "price": 8570,
+                  "quantity": 1,
+                  "sum": 8570
+               },
+               {
+                  "name": "LED 5-40W (12V) GU5",
+                  "ndsRate": 1,
+                  "ndsSum": 1307,
+                  "price": 8570,
+                  "quantity": 1,
+                  "sum": 8570
+               },
+               {
+                  "name": "LED 5-40W (220V) GU5",
+                  "ndsRate": 1,
+                  "ndsSum": 1340,
+                  "price": 8783,
+                  "quantity": 1,
+                  "sum": 8783
+               },
+               {
+                  "name": "LED 5-40W (220V) GU5",
+                  "ndsRate": 1,
+                  "ndsSum": 1340,
+                  "price": 8783,
+                  "quantity": 1,
+                  "sum": 8783
+               },
+               {
+                  "name": "LED 7-60W (12V) GU5",
+                  "ndsRate": 1,
+                  "ndsSum": 1635,
+                  "price": 10716,
+                  "quantity": 1,
+                  "sum": 10716
+               }
+            ],
+            "kktRegId": "0000303375062931    ",
+            "nds10": 39677,
+            "nds18": 54230,
+            "operationType": 1,
+            "operator": "Лалваp",
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "receiptCode": 3,
+            "requestNumber": 51,
+            "shiftNumber": 141,
+            "taxationType": 1,
+            "totalSum": 791957,
+            "userInn": "7703270067"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-03T10:59:00",
+            "ecashTotalSum": 7400,
+            "fiscalDocumentNumber": 63033,
+            "fiscalDriveNumber": "8710000101604598",
+            "fiscalSign": 4279648054,
+            "items": [
+               {
+                  "name": "Хлеб 365 ДНЕЙ Дарницкий 350г",
+                  "nds10": 0,
+                  "price": 999,
+                  "quantity": 1,
+                  "sum": 999
+               },
+               {
+                  "name": "Хлеб Домашний на кефире 300г",
+                  "nds10": 0,
+                  "price": 6401,
+                  "quantity": 1,
+                  "sum": 6401
+               }
+            ],
+            "kktRegId": "0001691796017043    ",
+            "nds10": 673,
+            "operationType": 1,
+            "operator": "ШАРИПОВА ГУЛСАНАМ ШУХРАТОВНА",
+            "rawData": "AwBhAREEEAA4NzEwMDAwMTAxNjA0NTk4DQQUADAwMDE2OTE3OTYwMTcwNDMgICAg+gMMADc4MTQxNDg0NzEgIBAEBAA59gAA9AMEAPSgtFs1BAYAMQT/Fj82DgQEAKYAAAASBAQAAwAAAB4EAQAB/AMCAOgc/QMcAJiAkIiPjoKAIIOTi5GAjYCMIJiTlZCAko6CjYAjBEIABgQcAJWrpaEgMzY1IISNhYkghKDgrajmqqipIDM1MKM3BAIA5wP/AwMAA+gDTwQBAAC8BAEAAb4EAQAEEwQCAOcDIwRCAAYEHACVq6WhIISurKDoraipIK2gIKql5KjgpSAzMDCjNwQCAAEZ/wMDAAPoA08EAQAAvAQBAAG+BAEABBMEAgABGU8EAgChAhgECwCOjo4gIoulreKgIh8EAQABJAQMAHd3dy5uYWxvZy5ydQcEAQAAOQQCAOgcvwQBAADABAEAAMEEAQAA",
+            "receiptCode": 3,
+            "requestNumber": 3,
+            "shiftNumber": 166,
+            "taxationType": 1,
+            "totalSum": 7400,
+            "user": "ООО \"Лента\"",
+            "userInn": "7814148471"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "dateTime": "2018-09-01T10:24:00",
+            "ecashTotalSum": 930898,
+            "fiscalDocumentNumber": 17596,
+            "fiscalDriveNumber": "9288000100037813",
+            "fiscalSign": 1043602416,
+            "items": [
+               {
+                  "name": "Т/БУМ.ЦВЕТЫ 8Р ЗЕВА",
+                  "ndsRate": 1,
+                  "ndsSum": 2797,
+                  "price": 18333,
+                  "quantity": 1,
+                  "sum": 18333
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ КРАНОБОР",
+                  "ndsRate": 2,
+                  "ndsSum": 2501,
+                  "price": 42132,
+                  "quantity": 0.653,
+                  "sum": 27512
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ КРАНОБОР",
+                  "ndsRate": 2,
+                  "ndsSum": 2700,
+                  "price": 42132,
+                  "quantity": 0.705,
+                  "sum": 29703
+               },
+               {
+                  "name": "ГОЛЕНЬ ЦБ ОХЛ/ПОДЛ",
+                  "ndsRate": 2,
+                  "ndsSum": 1685,
+                  "price": 18738,
+                  "quantity": 0.989,
+                  "sum": 18532
+               },
+               {
+                  "name": "ФИЛЕ ЦБ 900 Г ОХЛ ТР",
+                  "ndsRate": 2,
+                  "ndsSum": 1991,
+                  "price": 21896,
+                  "quantity": 1,
+                  "sum": 21896
+               },
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 3776,
+                  "price": 5933,
+                  "quantity": 7,
+                  "sum": 41531
+               },
+               {
+                  "name": "ЕССЕНТУКИ №4 МИН.ВОД",
+                  "ndsRate": 1,
+                  "ndsSum": 2441,
+                  "price": 5334,
+                  "quantity": 3,
+                  "sum": 16002
+               },
+               {
+                  "name": "ЧЕЛЛЕНТАНИ 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 679,
+                  "price": 7468,
+                  "quantity": 1,
+                  "sum": 7468
+               },
+               {
+                  "name": "ЧЕЛЛЕНТАНИ 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 679,
+                  "price": 7468,
+                  "quantity": 1,
+                  "sum": 7468
+               },
+               {
+                  "name": "ВИНО VAL DE JUY 0,75",
+                  "ndsRate": 1,
+                  "ndsSum": 8624,
+                  "price": 56534,
+                  "quantity": 1,
+                  "sum": 56534
+               },
+               {
+                  "name": "КВАС ОЧАКОВСКИЙ 2Л",
+                  "ndsRate": 1,
+                  "ndsSum": 1068,
+                  "price": 7002,
+                  "quantity": 1,
+                  "sum": 7002
+               },
+               {
+                  "name": "ПШЕНО В/С ПАК. 400ГР",
+                  "ndsRate": 2,
+                  "ndsSum": 433,
+                  "price": 4761,
+                  "quantity": 1,
+                  "sum": 4761
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 1578,
+                  "price": 17363,
+                  "quantity": 1,
+                  "sum": 17363
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 1578,
+                  "price": 17363,
+                  "quantity": 1,
+                  "sum": 17363
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 1578,
+                  "price": 17363,
+                  "quantity": 1,
+                  "sum": 17363
+               },
+               {
+                  "name": "ГРЕЧКА 900Г ШЕБЕКИНС",
+                  "ndsRate": 2,
+                  "ndsSum": 855,
+                  "price": 9408,
+                  "quantity": 1,
+                  "sum": 9408
+               },
+               {
+                  "name": "ГРЕЧКА 900Г ШЕБЕКИНС",
+                  "ndsRate": 2,
+                  "ndsSum": 855,
+                  "price": 9408,
+                  "quantity": 1,
+                  "sum": 9408
+               },
+               {
+                  "name": "САЛФ.Д/ЛИЦА МИКС150Ш",
+                  "ndsRate": 1,
+                  "ndsSum": 6161,
+                  "price": 13463,
+                  "quantity": 3,
+                  "sum": 40389
+               },
+               {
+                  "name": "СОЛ ФАС.ЭКС.ЙОД.750Г",
+                  "ndsRate": 2,
+                  "ndsSum": 385,
+                  "price": 4239,
+                  "quantity": 1,
+                  "sum": 4239
+               },
+               {
+                  "name": "МЕШКИ С ЗАВЯЗ 30Л ЭК",
+                  "ndsRate": 1,
+                  "ndsSum": 882,
+                  "price": 5785,
+                  "quantity": 1,
+                  "sum": 5785
+               },
+               {
+                  "name": "ЛАКАЛЮТ З/П ФЛУОР",
+                  "ndsRate": 1,
+                  "ndsSum": 2318,
+                  "price": 15194,
+                  "quantity": 1,
+                  "sum": 15194
+               },
+               {
+                  "name": "ЛАКАЛЮТ З/П ФЛУОР",
+                  "ndsRate": 1,
+                  "ndsSum": 2318,
+                  "price": 15194,
+                  "quantity": 1,
+                  "sum": 15194
+               },
+               {
+                  "name": "ПРО СМЕТАНА 15% 315Г",
+                  "ndsRate": 2,
+                  "ndsSum": 2857,
+                  "price": 5237,
+                  "quantity": 6,
+                  "sum": 31422
+               },
+               {
+                  "name": "ВЛ. САЛФ. КЛАСС 128",
+                  "ndsRate": 2,
+                  "ndsSum": 1093,
+                  "price": 12028,
+                  "quantity": 1,
+                  "sum": 12028
+               },
+               {
+                  "name": "ВЛ. САЛФ. КЛАСС 128",
+                  "ndsRate": 2,
+                  "ndsSum": 1093,
+                  "price": 12028,
+                  "quantity": 1,
+                  "sum": 12028
+               },
+               {
+                  "name": "ШПРОТЫ КЛЮЧ 175Г",
+                  "ndsRate": 2,
+                  "ndsSum": 5467,
+                  "price": 12028,
+                  "quantity": 5,
+                  "sum": 60140
+               },
+               {
+                  "name": "ГЕЛ/ЧИС.ТРУБ ТИР.500",
+                  "ndsRate": 1,
+                  "ndsSum": 2482,
+                  "price": 16274,
+                  "quantity": 1,
+                  "sum": 16274
+               },
+               {
+                  "name": "ГЕЛ/ЧИС.ТРУБ ТИР.500",
+                  "ndsRate": 1,
+                  "ndsSum": 2482,
+                  "price": 16274,
+                  "quantity": 1,
+                  "sum": 16274
+               },
+               {
+                  "name": "МУКА В/С ЭКСТРА 2КГ",
+                  "ndsRate": 2,
+                  "ndsSum": 603,
+                  "price": 6632,
+                  "quantity": 1,
+                  "sum": 6632
+               },
+               {
+                  "name": "ПЕЛЬМЕН 800Г СИБИРСК",
+                  "ndsRate": 2,
+                  "ndsSum": 2861,
+                  "price": 31474,
+                  "quantity": 1,
+                  "sum": 31474
+               },
+               {
+                  "name": "ПЕЛЬМЕН 800Г СИБИРСК",
+                  "ndsRate": 2,
+                  "ndsSum": 2861,
+                  "price": 31474,
+                  "quantity": 1,
+                  "sum": 31474
+               },
+               {
+                  "name": "РАПТОР КЕДРОВЫЙ МЕШ",
+                  "ndsRate": 1,
+                  "ndsSum": 699,
+                  "price": 4580,
+                  "quantity": 1,
+                  "sum": 4580
+               },
+               {
+                  "name": "РАПТОР КЕДРОВЫЙ МЕШ",
+                  "ndsRate": 1,
+                  "ndsSum": 699,
+                  "price": 4580,
+                  "quantity": 1,
+                  "sum": 4580
+               },
+               {
+                  "name": "MDD/YEST ВЛ САЛФ Д/Р",
+                  "ndsRate": 1,
+                  "ndsSum": 458,
+                  "price": 3000,
+                  "quantity": 1,
+                  "sum": 3000
+               },
+               {
+                  "name": "ХЛЕБ ДАРНИЦКИЙ 0,32",
+                  "ndsRate": 2,
+                  "ndsSum": 141,
+                  "price": 1548,
+                  "quantity": 1,
+                  "sum": 1548
+               },
+               {
+                  "name": "РАПТОР КЕДРОВЫЙ МЕШ",
+                  "ndsRate": 1,
+                  "ndsSum": 699,
+                  "price": 4580,
+                  "quantity": 1,
+                  "sum": 4580
+               },
+               {
+                  "name": "ТВОРОГ КЛ-Й 2% 220Г",
+                  "ndsRate": 2,
+                  "ndsSum": 3541,
+                  "price": 9739,
+                  "quantity": 4,
+                  "sum": 38956
+               },
+               {
+                  "name": "MDD/YEST ВЛ САЛФ Д/Р",
+                  "ndsRate": 1,
+                  "ndsSum": 458,
+                  "price": 3000,
+                  "quantity": 1,
+                  "sum": 3000
+               },
+               {
+                  "name": "MDD/YEST ВЛ САЛФ Д/Р",
+                  "ndsRate": 1,
+                  "ndsSum": 458,
+                  "price": 3000,
+                  "quantity": 1,
+                  "sum": 3000
+               },
+               {
+                  "name": "ЖЕВ.РЕЗ.СОЧНЫЙ АРБУЗ",
+                  "ndsRate": 1,
+                  "ndsSum": 1473,
+                  "price": 9655,
+                  "quantity": 1,
+                  "sum": 9655
+               },
+               {
+                  "name": "ЕС_ТБ  ХВОЙН СВЕЖ",
+                  "ndsRate": 1,
+                  "ndsSum": 2639,
+                  "price": 17299,
+                  "quantity": 1,
+                  "sum": 17299
+               },
+               {
+                  "name": "ЖЕВ.РЕЗ.СОЧНЫЙ АРБУЗ",
+                  "ndsRate": 1,
+                  "ndsSum": 1473,
+                  "price": 9655,
+                  "quantity": 1,
+                  "sum": 9655
+               },
+               {
+                  "name": "ЖЕВ.РЕЗ.СОЧНЫЙ АРБУЗ",
+                  "ndsRate": 1,
+                  "ndsSum": 1473,
+                  "price": 9655,
+                  "quantity": 1,
+                  "sum": 9655
+               },
+               {
+                  "name": "DONTALEX  ЗУБНАЯ НИТ",
+                  "ndsRate": 1,
+                  "ndsSum": 1922,
+                  "price": 12600,
+                  "quantity": 1,
+                  "sum": 12600
+               },
+               {
+                  "name": "ТЕТРАДЬ 120Л А4 КЛЕТ",
+                  "ndsRate": 1,
+                  "ndsSum": 8019,
+                  "price": 52569,
+                  "quantity": 1,
+                  "sum": 52569
+               },
+               {
+                  "name": "СЫР ВИОЛА ПЛАВ 400ГР",
+                  "ndsRate": 2,
+                  "ndsSum": 1655,
+                  "price": 18206,
+                  "quantity": 1,
+                  "sum": 18206
+               },
+               {
+                  "name": "ПИРОГ ТИРОЛЬСКИЙ 480",
+                  "ndsRate": 2,
+                  "ndsSum": 2268,
+                  "price": 24943,
+                  "quantity": 1,
+                  "sum": 24943
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1969,
+                  "price": 12906,
+                  "quantity": 1,
+                  "sum": 12906
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1969,
+                  "price": 12906,
+                  "quantity": 1,
+                  "sum": 12906
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 10",
+                  "ndsRate": 2,
+                  "ndsSum": 806,
+                  "price": 8870,
+                  "quantity": 1,
+                  "sum": 8870
+               },
+               {
+                  "name": "СЫРОК АЛЕКСАН.ТЕМ/ШО",
+                  "ndsRate": 2,
+                  "ndsSum": 994,
+                  "price": 3644,
+                  "quantity": 3,
+                  "sum": 10932
+               },
+               {
+                  "name": "ПРОДУКТ ТВОР.3,9%100",
+                  "ndsRate": 2,
+                  "ndsSum": 3751,
+                  "price": 2579,
+                  "quantity": 16,
+                  "sum": 41264
+               }
+            ],
+            "kktRegId": "0000303318057538    ",
+            "nds10": 51267,
+            "nds18": 55978,
+            "operationType": 1,
+            "operator": "Лидия",
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "receiptCode": 3,
+            "requestNumber": 3,
+            "shiftNumber": 113,
+            "taxationType": 1,
+            "totalSum": 930898,
+            "userInn": "7703270067"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "dateTime": "2018-09-23T13:18:00",
+            "ecashTotalSum": 784335,
+            "fiscalDocumentNumber": 24522,
+            "fiscalDriveNumber": "9288000100036071",
+            "fiscalSign": 298162188,
+            "items": [
+               {
+                  "name": "ФИЛЕ КУР.1КГ ОХЛ.ПЕТ",
+                  "ndsRate": 2,
+                  "ndsSum": 2514,
+                  "price": 30226,
+                  "quantity": 0.915,
+                  "sum": 27657
+               },
+               {
+                  "name": "ГОЛЕНЬ КУРИН.ОХЛ 1КГ",
+                  "ndsRate": 2,
+                  "ndsSum": 1782,
+                  "price": 24473,
+                  "quantity": 0.801,
+                  "sum": 19603
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ КРАНОБОР",
+                  "ndsRate": 2,
+                  "ndsSum": 3600,
+                  "price": 42132,
+                  "quantity": 0.94,
+                  "sum": 39604
+               },
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 581,
+                  "price": 6391,
+                  "quantity": 1,
+                  "sum": 6391
+               },
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 581,
+                  "price": 6391,
+                  "quantity": 1,
+                  "sum": 6391
+               },
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 3486,
+                  "price": 6391,
+                  "quantity": 6,
+                  "sum": 38346
+               },
+               {
+                  "name": "ТВОРОГ КЛ-Й 2% 220Г",
+                  "ndsRate": 2,
+                  "ndsSum": 6151,
+                  "price": 8457,
+                  "quantity": 8,
+                  "sum": 67656
+               },
+               {
+                  "name": "ЧЕЛЛЕНТАНИ 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 698,
+                  "price": 7681,
+                  "quantity": 1,
+                  "sum": 7681
+               },
+               {
+                  "name": "ЧЕЛЛЕНТАНИ 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 698,
+                  "price": 7681,
+                  "quantity": 1,
+                  "sum": 7681
+               },
+               {
+                  "name": "МОЛОКО Ц.СГУЩ.Д/П300",
+                  "ndsRate": 2,
+                  "ndsSum": 864,
+                  "price": 9505,
+                  "quantity": 1,
+                  "sum": 9505
+               },
+               {
+                  "name": "КВАС ОЧАКОВСКИЙ 2Л",
+                  "ndsRate": 1,
+                  "ndsSum": 1124,
+                  "price": 7371,
+                  "quantity": 1,
+                  "sum": 7371
+               },
+               {
+                  "name": "ЕССЕНТУКИ №4 МИН.ВОД",
+                  "ndsRate": 1,
+                  "ndsSum": 814,
+                  "price": 5334,
+                  "quantity": 1,
+                  "sum": 5334
+               },
+               {
+                  "name": "ЕССЕНТУКИ №4 МИН.ВОД",
+                  "ndsRate": 1,
+                  "ndsSum": 814,
+                  "price": 5334,
+                  "quantity": 1,
+                  "sum": 5334
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4577,
+                  "quantity": 1,
+                  "sum": 4577
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4577,
+                  "quantity": 1,
+                  "sum": 4577
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4577,
+                  "quantity": 1,
+                  "sum": 4577
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4577,
+                  "quantity": 1,
+                  "sum": 4577
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4577,
+                  "quantity": 1,
+                  "sum": 4577
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4577,
+                  "quantity": 1,
+                  "sum": 4577
+               },
+               {
+                  "name": "МИЛКИ ВЕЙ МИНИC ВЕС",
+                  "ndsRate": 1,
+                  "ndsSum": 4536,
+                  "price": 39547,
+                  "quantity": 0.752,
+                  "sum": 29739
+               },
+               {
+                  "name": "СЫР ЛАМБЕР 50% 230Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1507,
+                  "price": 16582,
+                  "quantity": 1,
+                  "sum": 16582
+               },
+               {
+                  "name": "СЫР ЛАМБЕР 50% 230Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1507,
+                  "price": 16582,
+                  "quantity": 1,
+                  "sum": 16582
+               },
+               {
+                  "name": "СЫР ЛАМБЕР 50% 230Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1507,
+                  "price": 16582,
+                  "quantity": 1,
+                  "sum": 16582
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "МОЛОКО ДЕТС 2,5% 200",
+                  "ndsRate": 2,
+                  "ndsSum": 1423,
+                  "price": 2609,
+                  "quantity": 6,
+                  "sum": 15654
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 6137,
+                  "price": 16878,
+                  "quantity": 4,
+                  "sum": 67512
+               },
+               {
+                  "name": "КОНФЕТЫ ВЕС ПТИЧ МОЛ",
+                  "ndsRate": 1,
+                  "ndsSum": 6351,
+                  "price": 40341,
+                  "quantity": 1.032,
+                  "sum": 41632
+               },
+               {
+                  "name": "БАГЕТ ФРАНЦУЗСКИЙ290",
+                  "ndsRate": 2,
+                  "ndsSum": 900,
+                  "price": 9900,
+                  "quantity": 1,
+                  "sum": 9900
+               },
+               {
+                  "name": "ШОКОЛАД ГОРЬКИЙ 100Г",
+                  "ndsRate": 1,
+                  "ndsSum": 1524,
+                  "price": 9990,
+                  "quantity": 1,
+                  "sum": 9990
+               },
+               {
+                  "name": "ШОКОЛАД ГОРЬКИЙ 100Г",
+                  "ndsRate": 1,
+                  "ndsSum": 1524,
+                  "price": 9990,
+                  "quantity": 1,
+                  "sum": 9990
+               },
+               {
+                  "name": "ПРОДУКТ ТВОР.3,9%100",
+                  "ndsRate": 2,
+                  "ndsSum": 2813,
+                  "price": 2579,
+                  "quantity": 12,
+                  "sum": 30948
+               },
+               {
+                  "name": "ПРО СМЕТАНА 15% 315Г",
+                  "ndsRate": 2,
+                  "ndsSum": 3005,
+                  "price": 5509,
+                  "quantity": 6,
+                  "sum": 33054
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 10",
+                  "ndsRate": 2,
+                  "ndsSum": 806,
+                  "price": 8870,
+                  "quantity": 1,
+                  "sum": 8870
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 10",
+                  "ndsRate": 2,
+                  "ndsSum": 806,
+                  "price": 8870,
+                  "quantity": 1,
+                  "sum": 8870
+               },
+               {
+                  "name": "БАБ.ШОК.БАТ.С Ш.Н 50",
+                  "ndsRate": 1,
+                  "ndsSum": 5992,
+                  "price": 1964,
+                  "quantity": 20,
+                  "sum": 39280
+               },
+               {
+                  "name": "КОНФЕТЫ ТРЮФЕЛИ 200Г",
+                  "ndsRate": 1,
+                  "ndsSum": 1739,
+                  "price": 11400,
+                  "quantity": 1,
+                  "sum": 11400
+               },
+               {
+                  "name": "КОНФЕТЫ ТРЮФЕЛИ 200Г",
+                  "ndsRate": 1,
+                  "ndsSum": 1739,
+                  "price": 11400,
+                  "quantity": 1,
+                  "sum": 11400
+               },
+               {
+                  "name": "ХЛЕБ ДАРНИЦКИЙ 0,32",
+                  "ndsRate": 2,
+                  "ndsSum": 141,
+                  "price": 1548,
+                  "quantity": 1,
+                  "sum": 1548
+               },
+               {
+                  "name": "ГЕЛЬ ДЛЯ ДУША 250 МЛ",
+                  "ndsRate": 1,
+                  "ndsSum": 1686,
+                  "price": 11051,
+                  "quantity": 1,
+                  "sum": 11051
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1673,
+                  "price": 10970,
+                  "quantity": 1,
+                  "sum": 10970
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1673,
+                  "price": 10970,
+                  "quantity": 1,
+                  "sum": 10970
+               },
+               {
+                  "name": "ШОК.БАТ.С П-С.Н 50Г",
+                  "ndsRate": 1,
+                  "ndsSum": 1798,
+                  "price": 1964,
+                  "quantity": 6,
+                  "sum": 11784
+               },
+               {
+                  "name": "ШОК.БАТ.MILKY WAY 52",
+                  "ndsRate": 1,
+                  "ndsSum": 8358,
+                  "price": 3044,
+                  "quantity": 18,
+                  "sum": 54792
+               },
+               {
+                  "name": "ВИВАЛЬ МАНГО В ШОК",
+                  "ndsRate": 1,
+                  "ndsSum": 2263,
+                  "price": 14837,
+                  "quantity": 1,
+                  "sum": 14837
+               },
+               {
+                  "name": "СР-ВО ОТ НАК ЖИДК УН",
+                  "ndsRate": 1,
+                  "ndsSum": 391,
+                  "price": 2562,
+                  "quantity": 1,
+                  "sum": 2562
+               },
+               {
+                  "name": "СР-ВО Д/УДАЛЕН НАК",
+                  "ndsRate": 1,
+                  "ndsSum": 442,
+                  "price": 966,
+                  "quantity": 3,
+                  "sum": 2898
+               }
+            ],
+            "kktRegId": "0000303404016695    ",
+            "nds10": 42322,
+            "nds18": 48630,
+            "operationType": 1,
+            "operator": "Екатеpина",
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "receiptCode": 3,
+            "requestNumber": 12,
+            "shiftNumber": 137,
+            "taxationType": 1,
+            "totalSum": 784335,
+            "userInn": "7703270067"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-09-25T08:44:00",
+            "ecashTotalSum": 170291,
+            "fiscalDocumentNumber": 12450,
+            "fiscalDriveNumber": "9288000100145251",
+            "fiscalSign": 2840282967,
+            "items": [
+               {
+                  "name": "ТРК-4 RACE АИ-95-К5",
+                  "nds18": 25977,
+                  "price": 4665,
+                  "quantity": 36.504,
+                  "sum": 170291
+               }
+            ],
+            "kktRegId": "0001212576025046",
+            "nds18": 25977,
+            "operationType": 1,
+            "operator": "Кассир",
+            "rawData": "pQMBEJmSiAABABRSUQAworvVqO/FAC/6AAIBJgMAIgERBBAAOTI4ODAwMDEwMDE0NTI1MQ0EFAAwMDAxMjEyNTc2MDI1MDQ2ICAgIPoDDAA3NzA0MjIyNTg4ICAQBAQAojAAAPQDBABQ9albNQQGADEEqUtHVw4EBAAUAAAAEgQEAKgAAAAeBAEAAfwDAwAzmQIjBDEABgQTAJKQii00IFJBQ0UggIgtOTUtijU3BAIAORL/AwMAA5iOEwQDADOZAk4EAgB5Zf0DBgCKoOHhqOAHBAEAADkEAwAzmQJOBAIAeWUYBBYAjo6OICKNgYAtkYWChZCOLYeAj4CEIvEDPAAxNDE3MDcsIIyu4aquouGqoO8grqGroOHi7Cwgoy4ghK6ro66v4OOkreupLCDoLiCLqOWg56Wi4aqupSAfBAEAAQ==",
+            "receiptCode": 3,
+            "requestNumber": 168,
+            "retailPlaceAddress": "141707, Московская область, г. Долгопрудный, ш. Лихачевское",
+            "shiftNumber": 20,
+            "taxationType": 1,
+            "totalSum": 170291,
+            "user": "ООО \"НБА-СЕВЕРО-ЗАПАД\"",
+            "userInn": "7704222588"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-09-30T18:38:00",
+            "ecashTotalSum": 24800,
+            "fiscalDocumentNumber": 51261,
+            "fiscalDriveNumber": "8710000101604654",
+            "fiscalSign": 3574037123,
+            "items": [
+               {
+                  "name": "Молоко ПРОСТОКВАШИНО паст 2,5% п/э 930мл",
+                  "nds10": 0,
+                  "price": 5805,
+                  "quantity": 2,
+                  "sum": 11611
+               },
+               {
+                  "name": "Творог ПРОСТОКВАШИНО классич 5% 220г",
+                  "nds10": 0,
+                  "price": 7452,
+                  "quantity": 1,
+                  "sum": 7452
+               },
+               {
+                  "name": "Сметана ПРОСТОКВАШИНО 15% 315г",
+                  "nds10": 0,
+                  "price": 5737,
+                  "quantity": 1,
+                  "sum": 5737
+               }
+            ],
+            "kktRegId": "0001691789029398    ",
+            "nds10": 2255,
+            "operationType": 1,
+            "operator": "Лебедева Наталья Михайловна",
+            "rawData": "AwC8AREEEAA4NzEwMDAwMTAxNjA0NjU0DQQUADAwMDE2OTE3ODkwMjkzOTggICAg+gMMADc4MTQxNDg0NzEgIBAEBAA9yAAA9AMEAAgYsVs1BAYAMQTVB3qDDgQEAJIAAAASBAQA2AAAAB4EAQAB/AMCAOBg/QMbAIuloaWkpaKgII2g4qCr7O8gjKjloKmrrqKtoCMETgAGBCgAjK6rrqquII+QjpGSjoqCgJiIjY4gr6Dh4iAyLDUlIK8v7SA5MzCsqzcEAgCtFv8DAwAD0AdPBAEAALwEAQABvgQBAAQTBAIAWy0jBEoABgQkAJKiruCuoyCPkI6Rko6KgoCYiI2OIKqroOHhqOcgNSUgMjIwozcEAgAcHf8DAwAD6ANPBAEAALwEAQABvgQBAAQTBAIAHB0jBEQABgQeAJGspeKgraAgj5COkZKOioKAmIiNjiAxNSUgMzE1ozcEAgBpFv8DAwAD6ANPBAEAALwEAQABvgQBAAQTBAIAaRZPBAIAzwgYBAsAjo6OICKLpa3ioCIfBAEAASQEDAB3d3cubmFsb2cucnUHBAEAADkEAgDgYL8EAQAAwAQBAADBBAEAAA==",
+            "receiptCode": 3,
+            "requestNumber": 216,
+            "shiftNumber": 146,
+            "taxationType": 1,
+            "totalSum": 24800,
+            "user": "ООО \"Лента\"",
+            "userInn": "7814148471"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "counterSubmissionSum": 0,
+            "dateTime": "2018-08-24T12:51:00",
+            "ecashTotalSum": 530038,
+            "fiscalDocumentNumber": 18331,
+            "fiscalDriveNumber": "9288000100035909",
+            "fiscalSign": 3375823611,
+            "items": [
+               {
+                  "name": "ВИНО КИНДЗ.КР 0,75Л",
+                  "ndsRate": 1,
+                  "ndsSum": 8605,
+                  "price": 56408,
+                  "quantity": 1,
+                  "sum": 56408
+               },
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 4315,
+                  "price": 5933,
+                  "quantity": 8,
+                  "sum": 47464
+               },
+               {
+                  "name": "ПЕЛЬМЕН 800Г СИБИРСК",
+                  "ndsRate": 2,
+                  "ndsSum": 4973,
+                  "price": 54708,
+                  "quantity": 1,
+                  "sum": 54708
+               },
+               {
+                  "name": "ПРОДУКТ ТВОР.3,9%100",
+                  "ndsRate": 2,
+                  "ndsSum": 3282,
+                  "price": 2579,
+                  "quantity": 14,
+                  "sum": 36106
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 10",
+                  "ndsRate": 2,
+                  "ndsSum": 806,
+                  "price": 8870,
+                  "quantity": 1,
+                  "sum": 8870
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 10",
+                  "ndsRate": 2,
+                  "ndsSum": 806,
+                  "price": 8870,
+                  "quantity": 1,
+                  "sum": 8870
+               },
+               {
+                  "name": "ТВОРОГ КЛ-Й 2% 220Г",
+                  "ndsRate": 2,
+                  "ndsSum": 7935,
+                  "price": 8729,
+                  "quantity": 10,
+                  "sum": 87290
+               },
+               {
+                  "name": "САХАР-ПЕСОК 1КГ",
+                  "ndsRate": 2,
+                  "ndsSum": 279,
+                  "price": 3069,
+                  "quantity": 1,
+                  "sum": 3069
+               },
+               {
+                  "name": "СЫР ЛАМБЕР 50% 230Г",
+                  "ndsRate": 2,
+                  "ndsSum": 4522,
+                  "price": 16582,
+                  "quantity": 3,
+                  "sum": 49746
+               },
+               {
+                  "name": "ЖЕВ.РЕЗ.СЛАДКАЯ МЯТА",
+                  "ndsRate": 1,
+                  "ndsSum": 4420,
+                  "price": 9659,
+                  "quantity": 3,
+                  "sum": 28977
+               },
+               {
+                  "name": "ПИВО КАРЛСБ.Ж/Б 0,45",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4575,
+                  "quantity": 1,
+                  "sum": 4575
+               },
+               {
+                  "name": "ПИВО КАРЛСБ.Ж/Б 0,45",
+                  "ndsRate": 1,
+                  "ndsSum": 698,
+                  "price": 4575,
+                  "quantity": 1,
+                  "sum": 4575
+               },
+               {
+                  "name": "МЮСЛИ ВИШ-КЛЮК 325Г",
+                  "ndsRate": 1,
+                  "ndsSum": 5608,
+                  "price": 36763,
+                  "quantity": 1,
+                  "sum": 36763
+               },
+               {
+                  "name": "ПРО СМЕТАНА 15% 315Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1940,
+                  "price": 5334,
+                  "quantity": 4,
+                  "sum": 21336
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1969,
+                  "price": 12906,
+                  "quantity": 1,
+                  "sum": 12906
+               },
+               {
+                  "name": "ИСЛАНДКА ФИЛЕ-КУС.В",
+                  "ndsRate": 2,
+                  "ndsSum": 639,
+                  "price": 7031,
+                  "quantity": 1,
+                  "sum": 7031
+               },
+               {
+                  "name": "ШПРОТЫ КЛЮЧ 175Г",
+                  "ndsRate": 2,
+                  "ndsSum": 681,
+                  "price": 7490,
+                  "quantity": 1,
+                  "sum": 7490
+               },
+               {
+                  "name": "МЫЛО ЖИД.ДЕТС.РОМАШК",
+                  "ndsRate": 1,
+                  "ndsSum": 6353,
+                  "price": 4165,
+                  "quantity": 10,
+                  "sum": 41650
+               },
+               {
+                  "name": "РУКАВ Д/ЗАПЕК.2МХ29",
+                  "ndsRate": 1,
+                  "ndsSum": 501,
+                  "price": 3282,
+                  "quantity": 1,
+                  "sum": 3282
+               }
+            ],
+            "kktRegId": "0000303387021676    ",
+            "nds10": 30991,
+            "nds18": 28851,
+            "operationType": 1,
+            "operator": "Оксана",
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "receiptCode": 3,
+            "requestNumber": 28,
+            "shiftNumber": 110,
+            "taxationType": 1,
+            "totalSum": 530038,
+            "userInn": "7703270067"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-08-27T13:07:00",
+            "ecashTotalSum": 55700,
+            "fiscalDocumentNumber": 62893,
+            "fiscalDriveNumber": "8710000101892437",
+            "fiscalSign": 2267508413,
+            "items": [
+               {
+                  "name": "Хлеб Альтамура из твердых сорт",
+                  "nds10": 1536,
+                  "price": 16900,
+                  "quantity": 1,
+                  "sum": 16900
+               },
+               {
+                  "name": "Багет мини пшеничный от шеф-пе",
+                  "nds10": 272,
+                  "price": 2990,
+                  "quantity": 1,
+                  "sum": 2990
+               },
+               {
+                  "name": "Маффин шоколадный с вишней от ",
+                  "nds10": 755,
+                  "price": 8300,
+                  "quantity": 1,
+                  "sum": 8300
+               },
+               {
+                  "name": "Выпечка Завитушка мини с изюмо",
+                  "nds18": 4196,
+                  "price": 4585,
+                  "quantity": 6,
+                  "sum": 27510
+               }
+            ],
+            "kktRegId": "0001525139005639    ",
+            "nds10": 2563,
+            "nds18": 4196,
+            "operationType": 1,
+            "operator": "КАСЬЯНОВА НАТАЛЬЯ",
+            "receiptCode": 3,
+            "requestNumber": 129,
+            "shiftNumber": 326,
+            "taxationType": 1,
+            "totalSum": 55700,
+            "user": "         ООО Городской супермаркет",
+            "userInn": "7705466989"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-14T13:04:00",
+            "ecashTotalSum": 33480,
+            "fiscalDocumentNumber": 9072,
+            "fiscalDriveNumber": "9281000100032481",
+            "fiscalSign": 2263208587,
+            "items": [
+               {
+                  "name": "ЧР Милима черн. 1000гр. (Kантата)",
+                  "price": 465,
+                  "quantity": 72,
+                  "sum": 33480
+               }
+            ],
+            "kktRegId": "0001702592018554    ",
+            "operationType": 1,
+            "operator": "Сытенко Л.В.",
+            "rawData": "//8AHKUDARAJkoEAAQADJIEAI3DPFMCeJgAdyAACAP4DAPoAEQQQADkyODEwMDAxMDAwMzI0ODENBBQAMDAwMTcwMjU5MjAxODU1NCAgICD6AwwANzcyMzM4MzkxOTU0EAQEAHAjAAD0AwQAwD7DWzUEBgAxBIbl0osOBAQAzQAAABIEBAANAAAAHgQBAAH8AwIAyIIjBEsABgQhAJeQIIyoq6isoCDnpeCtLiAxMDAwo+AuIChLoK3ioOKgKTcEAgDRAf8DAgAASBMEAgDIgq8EAQAGsAQBAAC8BAEAAb4EAQAEBwQBAAA5BAIAyIK/BAEAAMAEAQAAwQQBAAD9AwwAkevipa2qriCLLoIuHwQBACC5BAEAAlEEAgDIgoEGdWndKJTb",
+            "receiptCode": 3,
+            "requestNumber": 13,
+            "shiftNumber": 205,
+            "taxationType": 32,
+            "totalSum": 33480,
+            "user": "",
+            "userInn": "772338391954"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-14T13:00:00",
+            "ecashTotalSum": 17076,
+            "fiscalDocumentNumber": 52048,
+            "fiscalDriveNumber": "8710000101675004",
+            "fiscalSign": 3160572877,
+            "items": [
+               {
+                  "name": "62061 Батончик ШОКОЛАДНЫЙ 50г",
+                  "price": 3199,
+                  "quantity": 4,
+                  "sum": 12796
+               },
+               {
+                  "name": "3028048 СПп Багет ФРАНЦУЗСКИЙ 300г",
+                  "price": 1990,
+                  "quantity": 1,
+                  "sum": 1990
+               },
+               {
+                  "name": "3235702 СПп Хлеб ДОМАШНИЙ 300г",
+                  "price": 2290,
+                  "quantity": 1,
+                  "sum": 2290
+               }
+            ],
+            "kktRegId": "0000107564002014",
+            "nds10": 389,
+            "nds18": 1952,
+            "operationType": 1,
+            "operator": "Кассир-продавец Мамадалиева кассир Кристанваль-Рус",
+            "rawData": "pQMBEJmHEAABAWdQBADLUGag+yR6AMsmAAIBoAMAnAERBBAAODcxMDAwMDEwMTY3NTAwNA0EFAAwMDAwMTA3NTY0MDAyMDE0ICAgIPoDDAA3NzI4MDI5MTEwICAQBAQAUMsAAPQDBADQPcNbNQQGADEEvGKDzQ4EBACQAAAAEgQEACoAAAAeBAEAAfwDAgC0QiMEPgAGBB0ANjIwNjEggaDirq3nqKogmI6KjouAhI2biSA1MKM3BAIAfwz/AwIAAAQTBAIA/DGvBAEAAbAEAgCgByMEQgAGBCIAMzAyODA0OCCRj68ggaCjpeIglJCAjZaTh5GKiIkgMzAwozcEAgDGB/8DAgAAARMEAgDGB68EAQACsAQBALUjBD4ABgQeADMyMzU3MDIgkY+vIJWrpaEghI6MgJiNiIkgMzAwozcEAgDyCP8DAgAAARMEAgDyCK8EAQACsAQBANAHBAEAADkEAgC0Qr8EAQAAwAQBAADBBAEAAP0DMgCKoOHhqOAtr+CupKCipeYgjKCsoKSgq6iloqAgqqDh4ajgIIrgqOHioK2ioKvsLZDj4R8EAQABTgQCAKAHTwQCAIUB",
+            "receiptCode": 3,
+            "requestNumber": 42,
+            "shiftNumber": 144,
+            "taxationType": 1,
+            "totalSum": 17076,
+            "userInn": "7728029110"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "authorityUri": "www.nalog.ru",
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-14T12:47:00",
+            "ecashTotalSum": 418400,
+            "fiscalDocumentNumber": 28256,
+            "fiscalDriveNumber": "8710000101450279",
+            "fiscalSign": 2628468172,
+            "items": [
+               {
+                  "name": "Douceur Мицеллярная вода для снятия макияжа, 200",
+                  "price": 188600,
+                  "quantity": 1,
+                  "sum": 188600
+               },
+               {
+                  "name": "Eclat Гель для лица очищающий, 125 мл",
+                  "price": 129900,
+                  "quantity": 1,
+                  "sum": 129900
+               },
+               {
+                  "name": "Men Дезодорант шариковый муж., 50 мл",
+                  "price": 99900,
+                  "quantity": 1,
+                  "sum": 99900
+               }
+            ],
+            "kktRegId": "0000321767012256",
+            "nds18": 63823,
+            "operationType": 1,
+            "operator": "КАССИР:  ТИХОСТУП А.",
+            "rawData": "pQMBEJmHEAABAUUCeQBuYN9bNnozAG5GAAICJgMAIgIRBBAAODcxMDAwMDEwMTQ1MDI3OQ0EFAAwMDAwMzIxNzY3MDEyMjU2ICAgIPoDDAA3ODEwMDIyNDYwICAQBAQAYG4AAPQDBADEOsNbNQQGADEEnKs9zA4EBACxAAAAEgQEABoAAAAeBAEAAfwDAwBgYgYjBGAABgQxAERvdWNldXIgjKjmpaur7+CtoO8goq6koCCkq+8g4a3v4qjvIKygqqjvpqAsIDIwMCA3BAMAuOAC/wMEAAZAQg8TBAMAuOACrwQBAAGwBAIAYXC+BAEABLwEAQABIwRUAAYEJQBFY2xhdCCDpavsIKSr7yCrqOagIK7nqOmg7umoqSwgMTI1IKyrNwQDAGz7Af8DBAAGQEIPEwQDAGz7Aa8EAQABsAQCAGdNvgQBAAS8BAEAASMEUwAGBCQATWVuIISlp66kruCgreIg6KDgqKquouupIKzjpi4sIDUwIKyrNwQDADyGAf8DBAAGQEIPEwQDADyGAa8EAQABsAQCAIc7vgQBAAS8BAEAAf0DFACKgJGRiJA6ICCSiJWOkZKTjyCALgcEAQAAOQQDAGBiBr8EAQAAwAQBAADBBAEAACQEDAB3d3cubmFsb2cucnWjBAcAkIiCIIOOmLkEAQACTgQCAE/5GAQPAI6OjiAigOCurKCL7qrhIvEDKAAxMjUxNzEsoy6MruGqoqAsi6WtqK2j4KCk4aqupSDoLDE2gCDh4i40HwQBAAE=",
+            "receiptCode": 3,
+            "requestNumber": 26,
+            "retailPlaceAddress": "125171,г.Москва,Ленинградское ш,16А ст.4",
+            "shiftNumber": 177,
+            "taxationType": 1,
+            "totalSum": 418400,
+            "user": "ООО \"АромаЛюкс\"",
+            "userInn": "7810022460"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "addressToCheckFiscalSign": "",
+            "buyerAddress": "",
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-14T16:56:00",
+            "ecashTotalSum": 25450,
+            "fiscalDocumentNumber": 72711,
+            "fiscalDriveNumber": "8710000101741752",
+            "fiscalSign": 3491877190,
+            "items": [
+               {
+                  "name": "Аугментин пор. д/сусп. внутр. 400мг+57мг/5мл 12,6г 70мл",
+                  "price": 25450,
+                  "quantity": 1,
+                  "sum": 25450
+               }
+            ],
+            "kktRegId": "0001389104036273",
+            "nds10": 2314,
+            "operationType": 1,
+            "operator": "Шишокина Т. Ю.",
+            "rawData": "AwAjAREEEAA4NzEwMDAwMTAxNzQxNzUyDQQUADAwMDEzODkxMDQwMzYyNzMgICAg+gMMADc3MzIxMjE3MzYgIBAEBAAHHAEA9AMEACB1w1s1BAYAMQTQIdFGDgQEAGkBAAASBAQApgAAAB4EAQAB/AMCAGpjIwRiAAYENwCA46Ospa3iqK0gr67gLiCkL+Hj4a8uIKKt4+LgLiA0MDCsoys1N6yjLzWsqyAxMiw2oyA3MKyrNwQCAGpj/wMCAAABEwQCAGpjrwQBAAKwBAIACgm8BAEAAb4EAQAEBwQBAAA5BAIAamO/BAEAAMAEAQAAwQQBAAD9Aw4AmKjorqqoraAgki4gni6zBAwANTAwODAzNzA0MDg2HwQBAAG5BAEAAk8EAgAKCQ==",
+            "receiptCode": 3,
+            "requestNumber": 166,
+            "retailPlaceAddress": "",
+            "senderAddress": "",
+            "shiftNumber": 361,
+            "taxationType": 1,
+            "totalSum": 25450,
+            "user": "",
+            "userInn": "7732121736"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "addressToCheckFiscalSign": "www.nalog.ru",
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-14T17:01:00",
+            "ecashTotalSum": 9598,
+            "fiscalDocumentNumber": 64458,
+            "fiscalDriveNumber": "9282000100053156",
+            "fiscalSign": 3430158611,
+            "items": [
+               {
+                  "modifiers": [],
+                  "name": "МОЛОКО ПРОСТОКВАШИНО ПАСТ.2,5%",
+                  "nds10": 873,
+                  "price": 4799,
+                  "quantity": 2,
+                  "sum": 9598
+               }
+            ],
+            "kktRegId": "0000136609032584",
+            "modifiers": [],
+            "nds10": 873,
+            "operationType": 1,
+            "operator": "К Ильева",
+            "rawData": "//8AHKUDARAJkoIAAQAFMVYA+8qk/qqULAD7xQACAWwDAGgBEQQQADkyODIwMDAxMDAwNTMxNTYNBBQAMDAwMDEzNjYwOTAzMjU4NCAgICD6AwwANTAzNjA0NTIwNSAgEAQEAMr7AAD0AwQATHbDWzUEBgAxBMx0ERMOBAQAyAAAABIEBAD6AAAAHgQBAAH8AwIAfiX9AwgAiiCIq+yloqAjBEUABgQeAIyOi46KjiCPkI6Rko6KgoCYiI2OII+AkZIuMiw1JTcEAgC/Ev8DAwAD0AevBAEAArAEAgBpA74EAQAEEwQCAH4lTwQCAGkDGAQbACCAjiAihKiq4aggnoMiICCEqKrhqC01MDM3NPEDNAAxNDE3MDcsIIyOLCCjLiCErqujrq/g46St66ksIIuo5aDnpaLhqq6lIOguLCCkLiAxMS2AowQNAIygo6CnqK0ghKiq4agfBAEAASQEDAB3d3cubmFsb2cucnUHBAEAADkEAgB+Jb8EAQAAwAQBAADBBAEAALkEAQACgQYhTKKSK9A=",
+            "receiptCode": 3,
+            "requestNumber": 250,
+            "retailPlace": "Магазин Дикси",
+            "retailPlaceAddress": "141707, МО, г. Долгопрудный, Лихачевское ш., д. 11-А",
+            "shiftNumber": 200,
+            "stornoItems": [],
+            "taxationType": 1,
+            "totalSum": 9598,
+            "user": "АО \"Дикси ЮГ\"  Дикси-50374",
+            "userInn": "5036045205"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "addressToCheckFiscalSign": "www.nalog.ru",
+            "cashTotalSum": 0,
+            "dateTime": "2018-10-14T17:04:00",
+            "ecashTotalSum": 38392,
+            "fiscalDocumentNumber": 64462,
+            "fiscalDriveNumber": "9282000100053156",
+            "fiscalSign": 489454808,
+            "items": [
+               {
+                  "modifiers": [],
+                  "name": "МОЛОКО ПРОСТОКВАШИНО ПАСТ.2,5%",
+                  "nds10": 3490,
+                  "price": 4799,
+                  "quantity": 8,
+                  "sum": 38392
+               }
+            ],
+            "kktRegId": "0000136609032584",
+            "modifiers": [],
+            "nds10": 3490,
+            "operationType": 1,
+            "operator": "К Ильева",
+            "rawData": "//8AHKUDARAJkoIAAQAFMVYA+86k/qqULAD7xQACAWwDAGgBEQQQADkyODIwMDAxMDAwNTMxNTYNBBQAMDAwMDEzNjYwOTAzMjU4NCAgICD6AwwANTAzNjA0NTIwNSAgEAQEAM77AAD0AwQAAHfDWzUEBgAxBB0sfNgOBAQAyAAAABIEBAD+AAAAHgQBAAH8AwIA+JX9AwgAiiCIq+yloqAjBEUABgQeAIyOi46KjiCPkI6Rko6KgoCYiI2OII+AkZIuMiw1JTcEAgC/Ev8DAwADQB+vBAEAArAEAgCiDb4EAQAEEwQCAPiVTwQCAKINGAQbACCAjiAihKiq4aggnoMiICCEqKrhqC01MDM3NPEDNAAxNDE3MDcsIIyOLCCjLiCErqujrq/g46St66ksIIuo5aDnpaLhqq6lIOguLCCkLiAxMS2AowQNAIygo6CnqK0ghKiq4agfBAEAASQEDAB3d3cubmFsb2cucnUHBAEAADkEAgD4lb8EAQAAwAQBAADBBAEAALkEAQACgQY1aI8wobQ=",
+            "receiptCode": 3,
+            "requestNumber": 254,
+            "retailPlace": "Магазин Дикси",
+            "retailPlaceAddress": "141707, МО, г. Долгопрудный, Лихачевское ш., д. 11-А",
+            "shiftNumber": 200,
+            "stornoItems": [],
+            "taxationType": 1,
+            "totalSum": 38392,
+            "user": "АО \"Дикси ЮГ\"  Дикси-50374",
+            "userInn": "5036045205"
+         }
+      }
+   },
+   {
+      "document": {
+         "receipt": {
+            "cashTotalSum": 46,
+            "counterSubmissionSum": 0,
+            "dateTime": "2018-08-16T14:54:00",
+            "ecashTotalSum": 598900,
+            "fiscalDocumentNumber": 12603,
+            "fiscalDriveNumber": "9288000100037481",
+            "fiscalSign": 2940175661,
+            "items": [
+               {
+                  "name": "МОЛОКО ПАСТ 2,5%0,93",
+                  "ndsRate": 2,
+                  "ndsSum": 4550,
+                  "price": 6256,
+                  "quantity": 8,
+                  "sum": 50048
+               },
+               {
+                  "name": "СЕЛЬДЬ Ф/КУС.ТРАД",
+                  "ndsRate": 2,
+                  "ndsSum": 466,
+                  "price": 5128,
+                  "quantity": 1,
+                  "sum": 5128
+               },
+               {
+                  "name": "ГОЛЕНЬ ЦБ ОХЛ/ПОДЛ",
+                  "ndsRate": 2,
+                  "ndsSum": 1521,
+                  "price": 18738,
+                  "quantity": 0.893,
+                  "sum": 16733
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ КРАНОБОР",
+                  "ndsRate": 2,
+                  "ndsSum": 3168,
+                  "price": 42132,
+                  "quantity": 0.827,
+                  "sum": 34843
+               },
+               {
+                  "name": "ФИЛЕ МАЛОЕ КРАНОБОР",
+                  "ndsRate": 2,
+                  "ndsSum": 2750,
+                  "price": 42132,
+                  "quantity": 0.718,
+                  "sum": 30251
+               },
+               {
+                  "name": "ФИЛЕ ЦБ 900 Г ОХЛ ТР",
+                  "ndsRate": 2,
+                  "ndsSum": 1991,
+                  "price": 21896,
+                  "quantity": 1,
+                  "sum": 21896
+               },
+               {
+                  "name": "МОРС ЯГОД.СБОР 0,97Л",
+                  "ndsRate": 2,
+                  "ndsSum": 4349,
+                  "price": 7973,
+                  "quantity": 6,
+                  "sum": 47838
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "КЕФИР 3,2% ДВД 500Г",
+                  "ndsRate": 2,
+                  "ndsSum": 406,
+                  "price": 4461,
+                  "quantity": 1,
+                  "sum": 4461
+               },
+               {
+                  "name": "ПРО СМЕТАНА 15% 315Г",
+                  "ndsRate": 2,
+                  "ndsSum": 1940,
+                  "price": 5334,
+                  "quantity": 4,
+                  "sum": 21336
+               },
+               {
+                  "name": "КВАСНИКОЛА2Л БУТ",
+                  "ndsRate": 1,
+                  "ndsSum": 877,
+                  "price": 5750,
+                  "quantity": 1,
+                  "sum": 5750
+               },
+               {
+                  "name": "ПЕЛЬМСИБ.КОЛЛНОВОС",
+                  "ndsRate": 2,
+                  "ndsSum": 3110,
+                  "price": 34212,
+                  "quantity": 1,
+                  "sum": 34212
+               },
+               {
+                  "name": "ТВОРОГ 5% 220ГР ПРО",
+                  "ndsRate": 2,
+                  "ndsSum": 2247,
+                  "price": 8240,
+                  "quantity": 3,
+                  "sum": 24720
+               },
+               {
+                  "name": "ВИНО КИНДЗ.КР 0,75Л",
+                  "ndsRate": 1,
+                  "ndsSum": 8605,
+                  "price": 56408,
+                  "quantity": 1,
+                  "sum": 56408
+               },
+               {
+                  "name": "СЫРОК АЛЕКСАН.ТЕМ/ШО",
+                  "ndsRate": 2,
+                  "ndsSum": 888,
+                  "price": 3256,
+                  "quantity": 3,
+                  "sum": 9768
+               },
+               {
+                  "name": "ПРОДУКТ ТВОР.3,9%100",
+                  "ndsRate": 2,
+                  "ndsSum": 3282,
+                  "price": 2579,
+                  "quantity": 14,
+                  "sum": 36106
+               },
+               {
+                  "name": "МАК.ИЗДЕЛИЯ ФИЛИНИ",
+                  "ndsRate": 2,
+                  "ndsSum": 679,
+                  "price": 7468,
+                  "quantity": 1,
+                  "sum": 7468
+               },
+               {
+                  "name": "MDD/YEST ВЛ САЛФ Д/Р",
+                  "ndsRate": 1,
+                  "ndsSum": 2288,
+                  "price": 3000,
+                  "quantity": 5,
+                  "sum": 15000
+               },
+               {
+                  "name": "ЖМ ДЕТСКОЕ ЧЕРЕДА",
+                  "ndsRate": 1,
+                  "ndsSum": 3178,
+                  "price": 5208,
+                  "quantity": 4,
+                  "sum": 20832
+               },
+               {
+                  "name": "МАСЛО ВОЛОГОДСКОЕ180",
+                  "ndsRate": 2,
+                  "ndsSum": 4735,
+                  "price": 17363,
+                  "quantity": 3,
+                  "sum": 52089
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1920,
+                  "price": 12587,
+                  "quantity": 1,
+                  "sum": 12587
+               },
+               {
+                  "name": "ПИРОЖНОЕ ЛЮБИМОЕ 300",
+                  "ndsRate": 1,
+                  "ndsSum": 1920,
+                  "price": 12587,
+                  "quantity": 1,
+                  "sum": 12587
+               },
+               {
+                  "name": "ЯЙЦО СТОЛОВОЕ СО 30",
+                  "ndsRate": 2,
+                  "ndsSum": 2243,
+                  "price": 24678,
+                  "quantity": 1,
+                  "sum": 24678
+               },
+               {
+                  "name": "СЫР ЛАМБЕР 50% 230Г",
+                  "ndsRate": 2,
+                  "ndsSum": 4522,
+                  "price": 16582,
+                  "quantity": 3,
+                  "sum": 49746
+               }
+            ],
+            "kktRegId": "0000303364064904    ",
+            "nds10": 43253,
+            "nds18": 18788,
+            "operationType": 1,
+            "operator": "Татьяна",
+            "postpaymentSum": 0,
+            "prepaymentSum": 0,
+            "receiptCode": 3,
+            "requestNumber": 109,
+            "shiftNumber": 92,
+            "taxationType": 1,
+            "totalSum": 598946,
+            "userInn": "7703270067"
+         }
+      }
+   }
+]
